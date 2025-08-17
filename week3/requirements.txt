@@ -1,0 +1,25 @@
+# FastAPI and web server
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+
+# ASR (Automatic Speech Recognition)
+openai-whisper==20231117
+torch>=2.0.0
+torchaudio>=2.0.0
+
+# LLM (Language Model) - OpenAI API
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+# TTS (Text-to-Speech)
+gTTS==2.4.0
+
+# Utilities
+numpy>=1.24.0
+scipy>=1.11.0
+librosa>=0.10.0
+
+# Optional: For better audio handling
+pydub>=0.25.1
+ffmpeg-python>=0.2.0
