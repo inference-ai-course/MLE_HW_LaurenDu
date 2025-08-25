@@ -1,0 +1,634 @@
+{
+  "metadata": {
+    "generated_at": "2025-08-17T00:07:31.112306",
+    "total_queries": 20,
+    "total_papers": 49,
+    "total_chunks": 5574,
+    "embedding_model": "all-MiniLM-L6-v2",
+    "embedding_dimension": 384
+  },
+  "queries": [
+    {
+      "query": "natural language processing",
+      "query_id": 1,
+      "results": [
+        {
+          "rank": 1,
+          "paper": "20.pdf",
+          "chunk_id": 555,
+          "distance": 0.7053927779197693,
+          "chunk_text": "lgorithm. Information and Computation, 108:212261. [Magerman1994] Magerman, David M. 1994. Natural Language Parsing as Statistical Pattern Recognition. Ph.D. Thesis, Stanford Univ. References 119 [Magerman1995] Magerman, David M. 1995. Statistical decision-tree models for pars- ing. Proceedings of the 33rd Annual Meeting of the Association for Computational Linguistics, pages 276283. [Magerman and Marcus1991] Magerman, David M. and Mitchell P. Marcus. 1991. Pearl: A probabilistic chart parser.",
+          "chunk_preview": "lgorithm. Information and Computation, 108:212261. [Magerman1994] Magerman, David M. 1994. Natural Language Parsing as Statistical Pattern Recognition. Ph.D. Thesis, Stanford Univ. References 119 [Mag..."
+        },
+        {
+          "rank": 2,
+          "paper": "26.pdf",
+          "chunk_id": 53,
+          "distance": 0.7337838411331177,
+          "chunk_text": "modular parsing system. In K. Sparck-Jones and Y. Wilks (eds.) Automatic Natural Language Parsing, Ellis HorwoodWiley: ChichesterNYC. [10] Nirenburg, S. and Raskin., V. (1997) Ten choices for lexical semantics. Research Memorandum, Computing Research Laboratory, Las Cruces, NM. [11] Pedersen, T. and Bruce, R. (1997) Distinguishing Word Senses in Untagged Text, Proceedings of the Second Conference on Empirical Methods in Natural Language Processing, pp. 197-207, Providence, RI. [12] Pustejovsky, J.",
+          "chunk_preview": "modular parsing system. In K. Sparck-Jones and Y. Wilks (eds.) Automatic Natural Language Parsing, Ellis HorwoodWiley: ChichesterNYC. [10] Nirenburg, S. and Raskin., V. (1997) Ten choices for lexical ..."
+        },
+        {
+          "rank": 3,
+          "paper": "13.pdf",
+          "chunk_id": 52,
+          "distance": 0.7483746409416199,
+          "chunk_text": "wledge Source using Internet- Accessible Newswire. Proceedings of the 5th Confer- ence on Applied Natural Language Processing. Wash- ington, D.C.",
+          "chunk_preview": "wledge Source using Internet- Accessible Newswire. Proceedings of the 5th Confer- ence on Applied Natural Language Processing. Wash- ington, D.C."
+        }
+      ]
+    },
+    {
+      "query": "machine learning",
+      "query_id": 2,
+      "results": [
+        {
+          "rank": 1,
+          "paper": "20.pdf",
+          "chunk_id": 497,
+          "distance": 1.059960126876831,
+          "chunk_text": "lem as that of statistical estimation and de\ufb01ning probability models (probability distributions) for each subproblem, (3) adopting MDL as a learning strategy, (4) employing e\ufb03cient learning algorithms, and (5) viewing the disambiguation problem as that of statistical prediction. Major contributions of this thesis include: (1) formalization of the lexical knowl- edge acquisition problem, (2) development of a number of learning methods for lexi- cal knowledge acquisition, and (3) development of a high-perform",
+          "chunk_preview": "lem as that of statistical estimation and de\ufb01ning probability models (probability distributions) for each subproblem, (3) adopting MDL as a learning strategy, (4) employing e\ufb03cient learning algorithms..."
+        },
+        {
+          "rank": 2,
+          "paper": "20.pdf",
+          "chunk_id": 587,
+          "distance": 1.0962402820587158,
+          "chunk_text": "f the ACM, 18(5):264274. [Wright1990] Wright, J.H. 1990. Lr parsing of probabilistic grammars with input un- certainty for speech recognition. Computer Speech and Language, 4:297323. [Yamanishi1992a] Yamanishi, Kenji. 1992a. A learning criterion for stochastic rules. Machine Learning, 9:165203. [Yamanishi1992b] Yamanishi, Kenji. 1992b. A Statistical Approach to Computational Learning Theory. Ph.D. Thesis, Univ. of Tokyo. [Yamanishi1996] Yamanishi, Kenji. 1996.",
+          "chunk_preview": "f the ACM, 18(5):264274. [Wright1990] Wright, J.H. 1990. Lr parsing of probabilistic grammars with input un- certainty for speech recognition. Computer Speech and Language, 4:297323. [Yamanishi1992a] ..."
+        },
+        {
+          "rank": 3,
+          "paper": "20.pdf",
+          "chunk_id": 4,
+          "distance": 1.121330976486206,
+          "chunk_text": "ing e\ufb03cient learning algorithms, and (5) viewing the disambiguation problem as that of statistical prediction. The need to divide the problem into subproblems is due to the complicatedness of this task, i.e., there are too many relevant factors simply to incorporate all of them into a single model. The use of MDL here leads us to a theoretically sound solution to the data sparseness problem, the main di\ufb03culty in a statistical approach to language processing.",
+          "chunk_preview": "ing e\ufb03cient learning algorithms, and (5) viewing the disambiguation problem as that of statistical prediction. The need to divide the problem into subproblems is due to the complicatedness of this tas..."
+        }
+      ]
+    },
+    {
+      "query": "deep learning",
+      "query_id": 3,
+      "results": [
+        {
+          "rank": 1,
+          "paper": "1.pdf",
+          "chunk_id": 62,
+          "distance": 1.2088100910186768,
+          "chunk_text": "e output, increasing the systems recall from 39 to 42. Since the system was not built with precision as a priority, so although precision of the system dropped 3, we believe the overall effects of adding the segmentation information was valuable. 4 Future Work Improvements to the current system can be categorized along the lines of the two modules. For segmentation, applying machine learning techniques (Beeferman et al. 1997) to learn weights is a high priority.",
+          "chunk_preview": "e output, increasing the systems recall from 39 to 42. Since the system was not built with precision as a priority, so although precision of the system dropped 3, we believe the overall effects of add..."
+        },
+        {
+          "rank": 2,
+          "paper": "20.pdf",
+          "chunk_id": 155,
+          "distance": 1.2096259593963623,
+          "chunk_text": "d absence of a piece of evidence, respectively, and wi(i  1,   , n) denotes a non-negative real-valued weight. In disambiguation, if the function exceeds a prede- termined threshold \u03b8, we choose 1, otherwise 0. We can further employ a learning algorithm called winnow that updates the weights in an on-line (or incremental) fash- ion.6 This algorithm has the advantage of being able to handle a large set of features, and at the same time not ordinarily be a\ufb00ected by features that are irrelevant to the disambig",
+          "chunk_preview": "d absence of a piece of evidence, respectively, and wi(i  1,   , n) denotes a non-negative real-valued weight. In disambiguation, if the function exceeds a prede- termined threshold \u03b8, we choose 1, ot..."
+        },
+        {
+          "rank": 3,
+          "paper": "42.pdf",
+          "chunk_id": 55,
+          "distance": 1.2216100692749023,
+          "chunk_text": "chunking us- ing memory-based learning techniques. In BENELEARN-98: Proceedings of the Eigth Belgian-Dutch Conference on Machine Learning. ATO-DLO, Wageningen, report 352.",
+          "chunk_preview": "chunking us- ing memory-based learning techniques. In BENELEARN-98: Proceedings of the Eigth Belgian-Dutch Conference on Machine Learning. ATO-DLO, Wageningen, report 352."
+        }
+      ]
+    },
+    {
+      "query": "neural networks",
+      "query_id": 4,
+      "results": [
+        {
+          "rank": 1,
+          "paper": "45.pdf",
+          "chunk_id": 31,
+          "distance": 1.2131273746490479,
+          "chunk_text": "th 1-5 lines corresponding roughly to a sentence, and 10-20 lines to a paragraph. Estimating a line as 10 words, we are there- fore working with signi\ufb01cantly smaller data sets. The accuracy \ufb01gures are generally similar to or better than those of Sibun and Reynar. The corresponding \ufb01gures for 200 tokens of training data appear in table 2, for the token identi\ufb01ca- tion task only. One of the strengths of the algorithm is that it makes a decision as soon as one can be made reliably.",
+          "chunk_preview": "th 1-5 lines corresponding roughly to a sentence, and 10-20 lines to a paragraph. Estimating a line as 10 words, we are there- fore working with signi\ufb01cantly smaller data sets. The accuracy \ufb01gures are..."
+        },
+        {
+          "rank": 2,
+          "paper": "34.pdf",
+          "chunk_id": 24,
+          "distance": 1.2294217348098755,
+          "chunk_text": "node 0 to the last node (node 14 in the example). The best path can be e\ufb03- ciently found with the Viterbi algorithm (Viterbi, 1967), which runs in time linear to the length of the word sequence. Having this view of \ufb01nding the best hypothesis, processing of a layer is similar to word lattice processing in speech recognition (cf. Samuelsson, 1997). Two types of probabilities are important when searching for the best path in a lattice.",
+          "chunk_preview": "node 0 to the last node (node 14 in the example). The best path can be e\ufb03- ciently found with the Viterbi algorithm (Viterbi, 1967), which runs in time linear to the length of the word sequence. Havin..."
+        },
+        {
+          "rank": 3,
+          "paper": "20.pdf",
+          "chunk_id": 147,
+          "distance": 1.2301392555236816,
+          "chunk_text": "unctions based on lexical and syntactic knowledge. They have devised a method for training the weights of a linear combination. Specif- ically, they employ the minimization of a squared-error cost function as a learning strategy and employ a hill-climbing algorithm to iteratively adjust weights on the basis of training data. Additionally, some non-probabilistic approaches to structural disambiguation have also been proposed (e.g., (Wilks, 1975; Wermter, 1989; Nagao, 1990; Kurohashi and Nagao, 1994)). 2.",
+          "chunk_preview": "unctions based on lexical and syntactic knowledge. They have devised a method for training the weights of a linear combination. Specif- ically, they employ the minimization of a squared-error cost fun..."
+        }
+      ]
+    },
+    {
+      "query": "transformer models",
+      "query_id": 5,
+      "results": [
+        {
+          "rank": 1,
+          "paper": "20.pdf",
+          "chunk_id": 172,
+          "distance": 1.2227797508239746,
+          "chunk_text": "elected model and then the data through the model. The decoder then can restore the data perfectly. Model class We \ufb01rst introduce a class of models, of which each consists of a discrete model (an expression) and a parameter vector (a number of parameters). When a discrete model is speci\ufb01ed, the number of parameters is also determined. For example, the tree cut models within a thesaurus tree, to be de\ufb01ned in Chapter 4, form a model class.",
+          "chunk_preview": "elected model and then the data through the model. The decoder then can restore the data perfectly. Model class We \ufb01rst introduce a class of models, of which each consists of a discrete model (an expr..."
+        },
+        {
+          "rank": 2,
+          "paper": "19.pdf",
+          "chunk_id": 24,
+          "distance": 1.2860559225082397,
+          "chunk_text": "tz, Eric Sven Ristad, Roni Rosenfeld, Andreas Stolcke, Dekai Wu. 1997. Structure and Performance of a Dependency Lan- guage Model. In Proceedings of Eurospeech97, Rhodes, Greece. To appear.",
+          "chunk_preview": "tz, Eric Sven Ristad, Roni Rosenfeld, Andreas Stolcke, Dekai Wu. 1997. Structure and Performance of a Dependency Lan- guage Model. In Proceedings of Eurospeech97, Rhodes, Greece. To appear."
+        },
+        {
+          "rank": 3,
+          "paper": "19.pdf",
+          "chunk_id": 20,
+          "distance": 1.3267229795455933,
+          "chunk_text": "of parameters for each of the 4 models described . LM PP param LM PP param W 352 208487 w 419 103732 H 292 206540 h 410 102437 Table 1: Perplexity results 5 Acknowledgements The author thanks to all the members of the De- pendency Modeling Group (Chelba97):David Engle, Frederick Jelinek, Victor Jimenez, Sanjeev Khudan- pur, Lidia Mangu, Harry Printz, Eric Ristad, Roni Rosenfeld, Andreas Stolcke, Dekai Wu. References [Collins96] Michael John Collins. 1996.",
+          "chunk_preview": "of parameters for each of the 4 models described . LM PP param LM PP param W 352 208487 w 419 103732 H 292 206540 h 410 102437 Table 1: Perplexity results 5 Acknowledgements The author thanks to all t..."
+        }
+      ]
+    },
+    {
+      "query": "attention mechanism",
+      "query_id": 6,
+      "results": [
+        {
+          "rank": 1,
+          "paper": "23.pdf",
+          "chunk_id": 197,
+          "distance": 0.7845272421836853,
+          "chunk_text": "algorithm, such as the certainty factor calculation and the critics, to assess the e\ufb00ects they have on performance. 8.1 Evaluation of the Focus Model The algorithm presented here does not include a mechanism for recognizing the global structure of the discourse, such as in the work of Grosz and Sidner (1986), Mann and Thompson (1988), Allen and Perrault (1980), and in descendent work. Recently in the literature, Walker (1996) argues for a more linear-recency based model of attentional state (though not tha",
+          "chunk_preview": "algorithm, such as the certainty factor calculation and the critics, to assess the e\ufb00ects they have on performance. 8.1 Evaluation of the Focus Model The algorithm presented here does not include a me..."
+        },
+        {
+          "rank": 2,
+          "paper": "23.pdf",
+          "chunk_id": 198,
+          "distance": 0.896379828453064,
+          "chunk_text": "y based model of attentional state (though not that discourse structure need not be recognized), while Rose et al. (1995) argue for a more complex model of attentional state than is represented in most current computational theories of discourse. Many theories that address how attentional state should be modeled have the goal of performing intention recognition as well. We investigate performing temporal reference resolution directly, without also attempting to recognize discourse structure or intentions.",
+          "chunk_preview": "y based model of attentional state (though not that discourse structure need not be recognized), while Rose et al. (1995) argue for a more complex model of attentional state than is represented in mos..."
+        },
+        {
+          "rank": 3,
+          "paper": "31.pdf",
+          "chunk_id": 10,
+          "distance": 0.9177740216255188,
+          "chunk_text": "either given or new, and therefore, its corresponding prosody. It was developed and implemented by Thomas Landauer[5] and models working memory as a periodic three dimensional Cartesian space, the focus of attention via a moving search and storage pointer that traverses the space in a slow random walk, and retrieval ability via a search radius that de\ufb01nes the size of a region whose center is the pointers current location.",
+          "chunk_preview": "either given or new, and therefore, its corresponding prosody. It was developed and implemented by Thomas Landauer[5] and models working memory as a periodic three dimensional Cartesian space, the foc..."
+        }
+      ]
+    },
+    {
+      "query": "language models",
+      "query_id": 7,
+      "results": [
+        {
+          "rank": 1,
+          "paper": "18.pdf",
+          "chunk_id": 54,
+          "distance": 0.6383261680603027,
+          "chunk_text": "ossibility of reestimat- ing the model parameters. We believe that the above experiments show the potential of our approach for improved language models. Our future plans include:  experiment with other parameterizations than the two most recent exposed heads in the word predictor model and parser;  estimate a separate word predictor for left-to- right language modeling. Note that the correspond- ing model predictor was obtained via re-estimation aimed at increasing the probability of the N-best parses of t",
+          "chunk_preview": "ossibility of reestimat- ing the model parameters. We believe that the above experiments show the potential of our approach for improved language models. Our future plans include:  experiment with oth..."
+        },
+        {
+          "rank": 2,
+          "paper": "49.pdf",
+          "chunk_id": 48,
+          "distance": 0.6386904716491699,
+          "chunk_text": "on the perplexity of the language models involved. Consequently, one of the main problems is to reduce the perplexity of the models in question. The common way to approach this problem is to specialize the models by additional knowledge about con- texts. The traditional n-gram model uses a collection of conditional distributions instead of one single probability distribution. Normally, a \ufb01xed length context of immediately preceding words is used.",
+          "chunk_preview": "on the perplexity of the language models involved. Consequently, one of the main problems is to reduce the perplexity of the models in question. The common way to approach this problem is to specializ..."
+        },
+        {
+          "rank": 3,
+          "paper": "4.pdf",
+          "chunk_id": 5,
+          "distance": 0.6812974214553833,
+          "chunk_text": "V0, and by the Priority Programme Language and Speech Technology, which is sponsored by NWO (Dutch Organization for Scienti\ufb01c Research). The second and third authors were partially supported by NSF grant SBR8920230 and ARO grant DAAH0404-94- G-0426. The authors wish to thank Aravind Joshi for his support in this research. ural language would improve performance of such language models, some researchers tried to use stochastic context-free grammars (CFGs) to produce language models (Wright and Wrigley, 1989;",
+          "chunk_preview": "V0, and by the Priority Programme Language and Speech Technology, which is sponsored by NWO (Dutch Organization for Scienti\ufb01c Research). The second and third authors were partially supported by NSF gr..."
+        }
+      ]
+    },
+    {
+      "query": "text classification",
+      "query_id": 8,
+      "results": [
+        {
+          "rank": 1,
+          "paper": "45.pdf",
+          "chunk_id": 55,
+          "distance": 0.805555522441864,
+          "chunk_text": "s: Making NLP Technology Work in Practice, ACLEACL, Madrid. William B. Cavnar and John M. Trenkle 1994. N-Gram Based Text Categorization. In Pro- ceedings of the Third Annual Symposium on Document Analysis and Information Re- trieval, pages 161169, Las Vegas, Nevada. I. Dagan, A. Itai and U. Schwall 1991. Two Languages are Better Than One. In Proceed- ings of the 29th Annual Meeting of the Asso- ciation for Computational Linguistics, pages 130137. Ted Dunning 1994. Statistical Identi\ufb01cation of Language.",
+          "chunk_preview": "s: Making NLP Technology Work in Practice, ACLEACL, Madrid. William B. Cavnar and John M. Trenkle 1994. N-Gram Based Text Categorization. In Pro- ceedings of the Third Annual Symposium on Document Ana..."
+        },
+        {
+          "rank": 2,
+          "paper": "20.pdf",
+          "chunk_id": 546,
+          "distance": 0.961479127407074,
+          "chunk_text": "ournal of Natural Language Processing, 5(3):33 52. [Iwayama and Tokunaga1995] Iwayama, Makoto and Takenobu Tokunaga. 1995. Cluster-based text categorization: A comparison of category search strategy. Pro- ceedings of the 18th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, pages 273280. [Jaynes1978] Jaynes, E. T. 1978. Where do we stand on maximum entropy? In R. D. Levine and M. Tribus, editors, The Maximum Entropy Formalism. MIT Press.",
+          "chunk_preview": "ournal of Natural Language Processing, 5(3):33 52. [Iwayama and Tokunaga1995] Iwayama, Makoto and Takenobu Tokunaga. 1995. Cluster-based text categorization: A comparison of category search strategy. ..."
+        },
+        {
+          "rank": 3,
+          "paper": "20.pdf",
+          "chunk_id": 554,
+          "distance": 0.9903286099433899,
+          "chunk_text": "Yamanishi1997] Li, Hang and Kenji Yamanishi. 1997. Document classi\ufb01cation using a \ufb01nite mixture model. Proceedings of the 35th Annual Meeting of Association for Computational Linguistics, pages 7188. [Littlestone1988] Littlestone, Nick. 1988. Learning quickly when irrelevant attributes abound: A new linear-threshold algorithm. Machine Learning, 2:285318. [Littlestone and Warmuth1994] Littlestone, Nick and Manfred K. Warmuth. 1994. The weighted majority algorithm. Information and Computation, 108:212261.",
+          "chunk_preview": "Yamanishi1997] Li, Hang and Kenji Yamanishi. 1997. Document classi\ufb01cation using a \ufb01nite mixture model. Proceedings of the 35th Annual Meeting of Association for Computational Linguistics, pages 7188. ..."
+        }
+      ]
+    },
+    {
+      "query": "information retrieval",
+      "query_id": 9,
+      "results": [
+        {
+          "rank": 1,
+          "paper": "43.pdf",
+          "chunk_id": 68,
+          "distance": 0.8060168027877808,
+          "chunk_text": "onary-based cross- language information retrieval. In Proceedings of the 21th Annual International ACM SIGIR Con- ference on Research and Development in Informa- tion Retrieval, pages 5563. Gerard Salton and Michael J. McGill. 1983. Introduction to Modern Information Retrieval. McGraw-Hill. Gerard Salton. 1970. Automatic processing of for- eign language documents. Journal of the Amer- ican Society for Information Science, 21(3):187 194. Paraic Sheridan and Jean Paul Ballerini. 1996.",
+          "chunk_preview": "onary-based cross- language information retrieval. In Proceedings of the 21th Annual International ACM SIGIR Con- ference on Research and Development in Informa- tion Retrieval, pages 5563. Gerard Sal..."
+        },
+        {
+          "rank": 2,
+          "paper": "43.pdf",
+          "chunk_id": 63,
+          "distance": 0.8084437251091003,
+          "chunk_text": "n Cross-Linguistic Information Retrieval. David A. Hull and Gregory Grefenstette. 1996. Querying across languages: A dictionary-based approach to multilingual information retrieval. In Proceedings of the 19th Annual International ACM SIGIR Conference on Research and Devel- opment in Information Retrieval, pages 4957. Japan Electronic Dictionary Research Institute. 1995. Technical terminology dictionary (informa- tion processing). (In Japanese). Noriko Kando and Akiko Aizawa. 1998.",
+          "chunk_preview": "n Cross-Linguistic Information Retrieval. David A. Hull and Gregory Grefenstette. 1996. Querying across languages: A dictionary-based approach to multilingual information retrieval. In Proceedings of ..."
+        },
+        {
+          "rank": 3,
+          "paper": "43.pdf",
+          "chunk_id": 55,
+          "distance": 0.8490288257598877,
+          "chunk_text": "m, is comparable with our CLIR system performance. It is expected that using a more sophisticated search engine, our CLIR system will achieve a higher performance than that obtained by Kando and Aizawa. 0 0.2 0.4 0.6 0.8 1 0 0.2 0.4 0.6 0.8 1 precision recall J-J CWT  translit Figure 7: Recall-Precision curves for evaluation of overall performance 5 Conclusion In this paper, we proposed a JapaneseEnglish cross-language information retrieval system, targeting technical documents.",
+          "chunk_preview": "m, is comparable with our CLIR system performance. It is expected that using a more sophisticated search engine, our CLIR system will achieve a higher performance than that obtained by Kando and Aizaw..."
+        }
+      ]
+    },
+    {
+      "query": "semantic analysis",
+      "query_id": 10,
+      "results": [
+        {
+          "rank": 1,
+          "paper": "35.pdf",
+          "chunk_id": 96,
+          "distance": 0.8081693053245544,
+          "chunk_text": "y NWO (Dutch Organisation for Scienti\ufb01c Research). References Alshawi, Hiyan, editor. 1992. The Core Language Engine. ACL-MIT press, Cambridge Mass. van den Berg, M., R. Bod, and R. Scha. 1994. A Corpus-Based Approach to Semantic Interpretation. In Proceedings Ninth Amsterdam Colloquium. ILLC,University of Amsterdam. Bod, Rens. 1993. Using an annotated corpus as a stochastic grammar. In Sixth Conference of the European Chapter of the Association for Computational Linguistics, Utrecht.",
+          "chunk_preview": "y NWO (Dutch Organisation for Scienti\ufb01c Research). References Alshawi, Hiyan, editor. 1992. The Core Language Engine. ACL-MIT press, Cambridge Mass. van den Berg, M., R. Bod, and R. Scha. 1994. A Corp..."
+        },
+        {
+          "rank": 2,
+          "paper": "35.pdf",
+          "chunk_id": 28,
+          "distance": 0.8859751224517822,
+          "chunk_text": "construct a rewrite system for the semantic STSG. This rewrite system applies the semantic rules associated with every node in a derivation in a bottom up fashion, and arrives at the complete logical formula. Methods for word graphs. The evaluation experiments were performed using just the semantic DOP-model as it was described above. For every word graph the most probable intersection derivation was deter- mined. The leaf-nodes of this derivation constitute the best path through the word graph.",
+          "chunk_preview": "construct a rewrite system for the semantic STSG. This rewrite system applies the semantic rules associated with every node in a derivation in a bottom up fashion, and arrives at the complete logical ..."
+        },
+        {
+          "rank": 3,
+          "paper": "20.pdf",
+          "chunk_id": 83,
+          "distance": 0.890204906463623,
+          "chunk_text": "ision. The accuracy achieved by this method is 85.2, which is higher than that of state- of-the-art methods. 1.4. ORGANIZATION OF THE THESIS 7 1.4 Organization of the Thesis This thesis is organized as follows. In Chapter 2, I review previous work on lexical semantic knowledge acquisition and structural disambiguation. I also introduce the MDL principle. In Chapter 3, I de\ufb01ne probability models for each subproblem of lexical semantic knowledge acquisition.",
+          "chunk_preview": "ision. The accuracy achieved by this method is 85.2, which is higher than that of state- of-the-art methods. 1.4. ORGANIZATION OF THE THESIS 7 1.4 Organization of the Thesis This thesis is organized a..."
+        }
+      ]
+    },
+    {
+      "query": "machine translation",
+      "query_id": 11,
+      "results": [
+        {
+          "rank": 1,
+          "paper": "40.pdf",
+          "chunk_id": 0,
+          "distance": 0.5986264944076538,
+          "chunk_text": "arXiv:cs9906034v1 [cs.CL] 30 Jun 1999 A Uni\ufb01ed Example-Based and Lexicalist Approach to Machine Translation Davide Turcato Paul McFetridge Fred Popowich and Janine Toole Natural Language Laboratory, School of Computing Science, Simon Fraser University 8888 University Drive, Burnaby, British Columbia, V5A 1S6, Canada and Gavagai Technology P.O. 374, 3495 Cambie Street, Vancouver, British Columbia, V5Z 4R3, Canada turk,mcfet,popowich,toolecs.sfu.",
+          "chunk_preview": "arXiv:cs9906034v1 [cs.CL] 30 Jun 1999 A Uni\ufb01ed Example-Based and Lexicalist Approach to Machine Translation Davide Turcato Paul McFetridge Fred Popowich and Janine Toole Natural Language Laboratory, S..."
+        },
+        {
+          "rank": 2,
+          "paper": "44.pdf",
+          "chunk_id": 0,
+          "distance": 0.6083953380584717,
+          "chunk_text": "arXiv:cs9907008v1 [cs.CL] 6 Jul 1999 Explanation-based Learning for Machine Translation Janine Toole Fred Popowich Devlan Nicholson Davide Turcato Paul McFetridge Natural Language Laboratory, School of Computing Science, Simon Fraser University 8888 University Drive, Burnaby, British Columbia, V5A 1S6, Canada and Gavagai Technology P.O. 374, 3495 Cambie Street, Vancouver, British Columbia, V5Z 4R3, Canada toole, popowich, devlan, turk, mcfetcs.sfu.",
+          "chunk_preview": "arXiv:cs9907008v1 [cs.CL] 6 Jul 1999 Explanation-based Learning for Machine Translation Janine Toole Fred Popowich Devlan Nicholson Davide Turcato Paul McFetridge Natural Language Laboratory, School o..."
+        },
+        {
+          "rank": 3,
+          "paper": "40.pdf",
+          "chunk_id": 1,
+          "distance": 0.6448163986206055,
+          "chunk_text": ", V5Z 4R3, Canada turk,mcfet,popowich,toolecs.sfu.ca Abstract We propose an approach to Machine Translation that combines the ideas and methodologies of the Example-Based and Lexicalist theoretical frameworks. The approach has been implemented in a multilingual Machine Translation system. 1 Introduction Human translation is a complex intellectual activity and accordingly Machine Trans- lation (henceforth MT) is a complex scienti\ufb01c task, involving virtually every aspect of Natural Language Processing.",
+          "chunk_preview": ", V5Z 4R3, Canada turk,mcfet,popowich,toolecs.sfu.ca Abstract We propose an approach to Machine Translation that combines the ideas and methodologies of the Example-Based and Lexicalist theoretical fr..."
+        }
+      ]
+    },
+    {
+      "query": "sentiment analysis",
+      "query_id": 12,
+      "results": [
+        {
+          "rank": 1,
+          "paper": "13.pdf",
+          "chunk_id": 4,
+          "distance": 1.144479513168335,
+          "chunk_text": "s that arise in the development of such resources. All evaluation re- sources are publicly available, and we welcome collabora- tion on use and improvements. The two resources discussed in this paper were utilized in the initial evaluation of a text analysis module. In the larger context, the analysis module serves as the initial steps for a complete system for summarization by analysis and reformulation, rather than solely by sentence extraction.",
+          "chunk_preview": "s that arise in the development of such resources. All evaluation re- sources are publicly available, and we welcome collabora- tion on use and improvements. The two resources discussed in this paper ..."
+        },
+        {
+          "rank": 2,
+          "paper": "13.pdf",
+          "chunk_id": 7,
+          "distance": 1.1582409143447876,
+          "chunk_text": "Lee was supported at Columbia University by a summer internship under the Computing Research Association (CRA) Distributed Mentor Project. 2. Description of Resources We detail these two evaluation corpora, both comprised of a corpus of human judgments, fashioned to accurately test the two technologies currently implemented in the text analysis module: namely, linear segmentation of text and sentence extraction. 2.1.",
+          "chunk_preview": "Lee was supported at Columbia University by a summer internship under the Computing Research Association (CRA) Distributed Mentor Project. 2. Description of Resources We detail these two evaluation co..."
+        },
+        {
+          "rank": 3,
+          "paper": "34.pdf",
+          "chunk_id": 68,
+          "distance": 1.2363927364349365,
+          "chunk_text": "annotation scheme for free word order lan- guages. In Proceedings of the Fifth Confer- ence on Applied Natural Language Processing ANLP-97, Washington, DC. [Thielen and Schiller1995] Christine Thielen and Anne Schiller. 1995. Ein kleines und erweitertes Tagset furs Deutsche. In Tagungsberichte des Arbeitstre\ufb00ens Lexikon  Text 17.18. Februar 1994, Schlo\u00df Hohentubingen. Lexicographica Series Maior, Tubingen. Niemeyer. [Veenstra1998] Jorn Veenstra. 1998.",
+          "chunk_preview": "annotation scheme for free word order lan- guages. In Proceedings of the Fifth Confer- ence on Applied Natural Language Processing ANLP-97, Washington, DC. [Thielen and Schiller1995] Christine Thielen..."
+        }
+      ]
+    },
+    {
+      "query": "named entity recognition",
+      "query_id": 13,
+      "results": [
+        {
+          "rank": 1,
+          "paper": "36.pdf",
+          "chunk_id": 15,
+          "distance": 0.7645285129547119,
+          "chunk_text": "amiliar from information ex- traction [Def, 1995]. Named entities include among others the names of people, places, and organizations, as well as dates, expressions of money, and (in an idiosyncratic exten- sion) titles, job descriptions, and honori\ufb01cs. 2The name comes from the Penn Treebank part-of-speech label for prepositions and subordinate conjunctions. Grammatical relations In the present work, we encode this hard stu\ufb00 through a small repertoire of grammatical relations.",
+          "chunk_preview": "amiliar from information ex- traction [Def, 1995]. Named entities include among others the names of people, places, and organizations, as well as dates, expressions of money, and (in an idiosyncratic ..."
+        },
+        {
+          "rank": 2,
+          "paper": "41.pdf",
+          "chunk_id": 2,
+          "distance": 0.8325896263122559,
+          "chunk_text": "ToBI, Tilt, Treebank, coreference and named entity. We show how annotation graphs can represent hybrid multi-level structures which derive from a diverse set of \ufb01le formats. We also show how the approach facilitates substantive comparison of multiple annotations of a single signal based on di\ufb00erent theoretical models. The discussion shows how annotation graphs open the door to wide-ranging integration of tools, formats and corpora.",
+          "chunk_preview": "ToBI, Tilt, Treebank, coreference and named entity. We show how annotation graphs can represent hybrid multi-level structures which derive from a diverse set of \ufb01le formats. We also show how the appro..."
+        },
+        {
+          "rank": 3,
+          "paper": "36.pdf",
+          "chunk_id": 5,
+          "distance": 0.8573304414749146,
+          "chunk_text": "e support of the MITRE Sponsored Research Program. Helpful assistance has been given by Yuval Krymolowski, Lynette Hirschman and an anonymous reviewer. Copyright c1999 The MITRE Corporation. All rights reserved. parse into a semantic representation is according to Charniak [Charniak, 1997, p. 42], the most important task to be tackled now. In this paper, we describe a system to learn rules for \ufb01nding grammatical relationships when just given a partial parse with entities like names, core noun and verb phras",
+          "chunk_preview": "e support of the MITRE Sponsored Research Program. Helpful assistance has been given by Yuval Krymolowski, Lynette Hirschman and an anonymous reviewer. Copyright c1999 The MITRE Corporation. All right..."
+        }
+      ]
+    },
+    {
+      "query": "part of speech tagging",
+      "query_id": 14,
+      "results": [
+        {
+          "rank": 1,
+          "paper": "1.pdf",
+          "chunk_id": 8,
+          "distance": 0.4639764428138733,
+          "chunk_text": "es of terms, we first tag the text with part of speech (POS) information. Two methods were investigated for assigning POS tags to the text: 1) running a specialized tagging program or 2) using a simple POS table lookup. We chose to use the latter to assign tags for time efficiency reasons (since the segmentation task is often only a preprocessing stage), but optimized the POS table to favor high recall of the 3 term types, whenever possible 2.",
+          "chunk_preview": "es of terms, we first tag the text with part of speech (POS) information. Two methods were investigated for assigning POS tags to the text: 1) running a specialized tagging program or 2) using a simpl..."
+        },
+        {
+          "rank": 2,
+          "paper": "17.pdf",
+          "chunk_id": 63,
+          "distance": 0.49516761302948,
+          "chunk_text": "umen und Neuronalen Netzen. In H. Feldweg and E.W. Hinrichs, editors, Wiederverwendbare Methoden und Ressourcen zur linguistischen Erschliessung des Deutschen, volume 73 of Lexicographica. Series Maior, pages 231244. Niemeyer Verlag, Tubingen. Helmut Schmid. 1995. Improvements in part- of-speech tagging with an application to Ger- man. Technical report, Universitat Stuttgart. Institut fur maschinelle Sprachverarbeitung. (Revised version of a paper presented at EACL SIGDAT, Dublin 1995). S. Teufel, H.",
+          "chunk_preview": "umen und Neuronalen Netzen. In H. Feldweg and E.W. Hinrichs, editors, Wiederverwendbare Methoden und Ressourcen zur linguistischen Erschliessung des Deutschen, volume 73 of Lexicographica. Series Maio..."
+        },
+        {
+          "rank": 3,
+          "paper": "8.pdf",
+          "chunk_id": 45,
+          "distance": 0.5226649641990662,
+          "chunk_text": "Natural Language Processing and Speech Technology. Results of the 3rd KONVENS Conference, Bielefeld. Berlin: Mouton de Gruyter. 369-378. Merialdo, B. (1994). Tagging English text with a probabilistic model. Computational Linguistics, 20(2), 155-171. Rapp, R. (1996). Die Berechnung von Assoziationen: ein korpuslinguistischer Ansatz. Hildesheim: Olms. Samuelsson, C., Voutilainen, A. (1997). Comparing a linguistic and a stochastic tagger.",
+          "chunk_preview": "Natural Language Processing and Speech Technology. Results of the 3rd KONVENS Conference, Bielefeld. Berlin: Mouton de Gruyter. 369-378. Merialdo, B. (1994). Tagging English text with a probabilistic ..."
+        }
+      ]
+    },
+    {
+      "query": "dependency parsing",
+      "query_id": 15,
+      "results": [
+        {
+          "rank": 1,
+          "paper": "47.pdf",
+          "chunk_id": 53,
+          "distance": 0.642196536064148,
+          "chunk_text": "on Computational Linguistics, COLING- 96, 711716. Copenhagen, Denmark. Lin, D. (1995) A dependency-based method for evaluating broad-coverage parsers. In Proceed- ings of the 14th International Joint Conference on Arti\ufb01cial Intelligence, 14201425. Montreal, Canada. Lin, D. (1996) Dependency-based parser evaluation: a study with a software manual corpus. In R. Sutcli\ufb00e, H-D. Koch  A. McElligott (Eds.), Industrial Parsing of Software Manuals, 1324. Amsterdam, The Netherlands: Rodopi. Marcus, M., Santorini, B.",
+          "chunk_preview": "on Computational Linguistics, COLING- 96, 711716. Copenhagen, Denmark. Lin, D. (1995) A dependency-based method for evaluating broad-coverage parsers. In Proceed- ings of the 14th International Joint ..."
+        },
+        {
+          "rank": 2,
+          "paper": "47.pdf",
+          "chunk_id": 18,
+          "distance": 0.6955023407936096,
+          "chunk_text": "dards or evaluation measures are proposed, though. 2 Grammatical Relation Annotation In the previous section we argued that constituency- based evaluation for parser evaluation has serious shortcomings3. In this section we outline a recently- proposed annotation scheme based on a dependency- style analysis, and compare it to other related schemes. In the next section we describe a 10K- word test corpus that uses this scheme, and also how it may be used to evaluate a robust parser.",
+          "chunk_preview": "dards or evaluation measures are proposed, though. 2 Grammatical Relation Annotation In the previous section we argued that constituency- based evaluation for parser evaluation has serious shortcoming..."
+        },
+        {
+          "rank": 3,
+          "paper": "36.pdf",
+          "chunk_id": 93,
+          "distance": 0.70585036277771,
+          "chunk_text": "emulated by a constrained context-free gram- mar. In COLING-ACL98 Workshop: Processing of Dependency-based Grammars, Montreal, Canada, 1998. [Marcus et al., 1993] M. Marcus, B. Santorini, and M. Marcinkiewicz. Building a large annotated cor- pus of english: the penn treebank. Computational Linguistics, 19(2), 1993. [Miller, 1990] G. Miller. Wordnet: an on-line lexical database. Intl. J. of Lexicography, 3(4), 1990. [Palmer et al., 1993] M. Palmer, R. Passonneau, C. Weir, and T. Finin.",
+          "chunk_preview": "emulated by a constrained context-free gram- mar. In COLING-ACL98 Workshop: Processing of Dependency-based Grammars, Montreal, Canada, 1998. [Marcus et al., 1993] M. Marcus, B. Santorini, and M. Marci..."
+        }
+      ]
+    },
+    {
+      "query": "embedding vectors",
+      "query_id": 16,
+      "results": [
+        {
+          "rank": 1,
+          "paper": "27.pdf",
+          "chunk_id": 167,
+          "distance": 1.3236278295516968,
+          "chunk_text": "nchors with spatial andor image-plane information. Anthropologists, conversation analysts, and sign-language researchers are already producing annotations that are (at least conceptually) anchored not only to time spans but also to a particular spatial or image-plane trajectory through the corresponding series of video frames. 28 A Formal Framework for Linguistic Annotation In the case of simple time-series annotations, we are tagging nodes with absolute time references, perhaps offset by a single constant",
+          "chunk_preview": "nchors with spatial andor image-plane information. Anthropologists, conversation analysts, and sign-language researchers are already producing annotations that are (at least conceptually) anchored not..."
+        },
+        {
+          "rank": 2,
+          "paper": "20.pdf",
+          "chunk_id": 581,
+          "distance": 1.3618093729019165,
+          "chunk_text": "ages 13081313. [Tsujii1987] Tsujii, Junichi. 1987. Knowledge Representation and Use  From AI View Point (in Japanese). Shoukoudou,Tokyo. [Ueda and Nakano1998] Ueda, Naonori and Ryohei Nakano. 1998. Deterministic an- nealing EM algorithm. Neural Networks, 11(2):271282. [Ushioda1996] Ushioda, Akira. 1996. Hierarchical clustering of words and application to NLP tasks. Proceedings of the 4th Workshop on Very Large Corpora, pages 2841. [Utsuro and Matsumoto1997] Utsuro, Takehito and Yuji Matsumoto. 1997.",
+          "chunk_preview": "ages 13081313. [Tsujii1987] Tsujii, Junichi. 1987. Knowledge Representation and Use  From AI View Point (in Japanese). Shoukoudou,Tokyo. [Ueda and Nakano1998] Ueda, Naonori and Ryohei Nakano. 1998. De..."
+        },
+        {
+          "rank": 3,
+          "paper": "42.pdf",
+          "chunk_id": 6,
+          "distance": 1.3708851337432861,
+          "chunk_text": "sentation formats for the baseNP recognition task. We are particularly interested in \ufb01nding out whether with one of the representation formats the best reported results for this task can be improved. The second section of this paper presents the general setup of the experiments. The results can be found in the third section. In the fourth section we will describe some related work. 2 Methods and experiments In this section we present and explain the data rep- resentation formats and the machine learning alg",
+          "chunk_preview": "sentation formats for the baseNP recognition task. We are particularly interested in \ufb01nding out whether with one of the representation formats the best reported results for this task can be improved. ..."
+        }
+      ]
+    },
+    {
+      "query": "vector space models",
+      "query_id": 17,
+      "results": [
+        {
+          "rank": 1,
+          "paper": "1.pdf",
+          "chunk_id": 76,
+          "distance": 1.1421539783477783,
+          "chunk_text": "nual Meeting of the Association for Computational Linguistics (student session), Las Cruces, New Mexico. Salton G. (1989) Automatic text processing: the transformation, analysis, and retrieval of information by computer. Addison-Wesley, Reading, Massachusetts. Singhal A. and Salton G. (1995) Automatic Text Browsing Using Vector Space Model. Proceedings of the Dual-Use Technologies and Applications Conference, pp. 318-324. Yaari Y.",
+          "chunk_preview": "nual Meeting of the Association for Computational Linguistics (student session), Las Cruces, New Mexico. Salton G. (1989) Automatic text processing: the transformation, analysis, and retrieval of info..."
+        },
+        {
+          "rank": 2,
+          "paper": "43.pdf",
+          "chunk_id": 14,
+          "distance": 1.1738077402114868,
+          "chunk_text": "heridan and Ballerini, 1996) and language-independent vector space models (Carbonell et al., 1997; Dumais et al., 1996). We prefer the \ufb01rst approach, the query translation, to other approaches because (a) translating all the documents in a given col- lection is expensive, (b) the use of thesauri re- quires manual construction or bilingual compa- rable corpora, (c) interlingual vector space mod- els also need comparable corpora, and (d) query translation can easily be combined with existing IR engines and th",
+          "chunk_preview": "heridan and Ballerini, 1996) and language-independent vector space models (Carbonell et al., 1997; Dumais et al., 1996). We prefer the \ufb01rst approach, the query translation, to other approaches because..."
+        },
+        {
+          "rank": 3,
+          "paper": "20.pdf",
+          "chunk_id": 179,
+          "distance": 1.1822686195373535,
+          "chunk_text": "gth When a discrete model m is \ufb01xed, a parameter space will be uniquely determined. The model class turns out to be Mm  P\u03b8(X) : \u03b8  \u0398, where \u03b8 denotes a parameter vector, and \u0398 the parameter space. Suppose that the dimension of the parameter space is k, then \u03b8 is a vector with k real-valued components: \u03b8  (\u03b81,    , \u03b8k)T, where XT denotes a transpose of X. 28 CHAPTER 2. RELATED WORK We next consider a way of calculating the sum of the parameter description length and the data description length through its mi",
+          "chunk_preview": "gth When a discrete model m is \ufb01xed, a parameter space will be uniquely determined. The model class turns out to be Mm  P\u03b8(X) : \u03b8  \u0398, where \u03b8 denotes a parameter vector, and \u0398 the parameter space. Sup..."
+        }
+      ]
+    },
+    {
+      "query": "probabilistic models",
+      "query_id": 18,
+      "results": [
+        {
+          "rank": 1,
+          "paper": "20.pdf",
+          "chunk_id": 321,
+          "distance": 0.9014319181442261,
+          "chunk_text": "ted as a conditional probability estimated (smoothed) from a class-based model on the basis of the MDL principle. The advantage of this method over the word-based method described in Chapter 2 lies in its ability to cope with the data sparseness problem. Formalizing this problem as a statistical estimation problem that includes model selection enables us to select models with various complexities, while employing MDL enables us to select, on the basis of training data, a model with the most appropriate leve",
+          "chunk_preview": "ted as a conditional probability estimated (smoothed) from a class-based model on the basis of the MDL principle. The advantage of this method over the word-based method described in Chapter 2 lies in..."
+        },
+        {
+          "rank": 2,
+          "paper": "4.pdf",
+          "chunk_id": 57,
+          "distance": 0.9118293523788452,
+          "chunk_text": "e stochastic TAG have been pre- viously estimated. In practice, smoothing to avoid sparse data problems plays an important role. Smoothing can be handled for pre\ufb01x prob- ability computation in the following ways. Dis- counting methods for smoothing simply pro- duce a modi\ufb01ed STAG model which is then treated as input to the pre\ufb01x probability com- putation. Smoothing using methods such as deleted interpolation which combine class-based models with word-based models to avoid sparse data problems have to be han",
+          "chunk_preview": "e stochastic TAG have been pre- viously estimated. In practice, smoothing to avoid sparse data problems plays an important role. Smoothing can be handled for pre\ufb01x prob- ability computation in the fol..."
+        },
+        {
+          "rank": 3,
+          "paper": "20.pdf",
+          "chunk_id": 216,
+          "distance": 0.9407793283462524,
+          "chunk_text": "able and the optimal model can be e\ufb03ciently found. Rissanen (1997), for example, has devised such an algorithm for learning a decision tree. Another approach is to calculate approximately the description lengths for the probability models, by using a computational-statistic technique, e.g., the Markov chain Monte-Carlo method, as is proposed in (Yamanishi, 1996). In this thesis, I take the approach of restricting a model class to a simpler one (i.e.",
+          "chunk_preview": "able and the optimal model can be e\ufb03ciently found. Rissanen (1997), for example, has devised such an algorithm for learning a decision tree. Another approach is to calculate approximately the descript..."
+        }
+      ]
+    },
+    {
+      "query": "statistical methods",
+      "query_id": 19,
+      "results": [
+        {
+          "rank": 1,
+          "paper": "45.pdf",
+          "chunk_id": 52,
+          "distance": 1.1061716079711914,
+          "chunk_text": "ngs which can help us trust that the technique is accurate. The \ufb01rst is a be- lief that the statistical technique is an adequate model of the underlying process which gener- ates the data, using theoretical considerations or some external source of knowledge to inform this belief. The second is quantitative evalua- tion on test data which has been characterised by an outside source (for example, in the case of part of speech tagging, a corpus which has been manually annotated, or at least automatically tagg",
+          "chunk_preview": "ngs which can help us trust that the technique is accurate. The \ufb01rst is a be- lief that the statistical technique is an adequate model of the underlying process which gener- ates the data, using theor..."
+        },
+        {
+          "rank": 2,
+          "paper": "20.pdf",
+          "chunk_id": 121,
+          "distance": 1.1731947660446167,
+          "chunk_text": ", with, spoon)) by mainly using lexical knowledge. Such methods can be classi\ufb01ed into the following three types: the double approach, the triple approach, and the quadruple approach. The \ufb01rst two approaches employ what I call a generation model and the third approach employs what I call a decision model (cf., Chapter 3). while free energy functions with low temperatures precisely approximate it. A deterministic-annealing- based algorithm manages to \ufb01nd the global minimum value of the target function by cont",
+          "chunk_preview": ", with, spoon)) by mainly using lexical knowledge. Such methods can be classi\ufb01ed into the following three types: the double approach, the triple approach, and the quadruple approach. The \ufb01rst two appr..."
+        },
+        {
+          "rank": 3,
+          "paper": "45.pdf",
+          "chunk_id": 54,
+          "distance": 1.1966071128845215,
+          "chunk_text": "which are themselves based in the statistical model. In doing so, we hope to avoid presenting a result for which we lack adequate evidence. Acknowledgement Thanks to Robert Keiller of Canon Research Centre Europe for his advice on computing ac- curate statistics. References Gary Adams and Philip Resnik 1997. A Lan- guage Identi\ufb01cation Application Built on the Java ClientServer Platform. In Proceedings of the Workshop From Research to Commer- cial Applications: Making NLP Technology Work in Practice, ACLEACL",
+          "chunk_preview": "which are themselves based in the statistical model. In doing so, we hope to avoid presenting a result for which we lack adequate evidence. Acknowledgement Thanks to Robert Keiller of Canon Research C..."
+        }
+      ]
+    },
+    {
+      "query": "evaluation metrics",
+      "query_id": 20,
+      "results": [
+        {
+          "rank": 1,
+          "paper": "28.pdf",
+          "chunk_id": 40,
+          "distance": 0.8528218269348145,
+          "chunk_text": "easures best predicts overall performance in TOOT. Following PARADISE, we organize our evaluation measures along the following four performance dimensions:  task success: Task Success  dialogue quality: Helps, ASR Rejections, Timeouts, Mean Recognition, Barge Ins, Cancels  dialogue ef\ufb01ciency: System Turns, User Turns, Elapsed Time  system usability: User Satisfaction (based on TTS Performance, ASR Performance, Task Ease, Interaction Pace, User Expertise, System Response, Expected Behavior, Future Use) 4.",
+          "chunk_preview": "easures best predicts overall performance in TOOT. Following PARADISE, we organize our evaluation measures along the following four performance dimensions:  task success: Task Success  dialogue qualit..."
+        },
+        {
+          "rank": 2,
+          "paper": "13.pdf",
+          "chunk_id": 3,
+          "distance": 0.9018420577049255,
+          "chunk_text": "ersity, we have followed this procedure of incremental testing and evaluation1. However, we found that the resources that were necessary for the evaluation of our particular system components did not exist in the NLP community. Thus, we built a set of evaluation resources which we present in this paper. Our goal in this paper is to describe the resources and to discuss both theoretical and practical issues that arise in the development of such resources.",
+          "chunk_preview": "ersity, we have followed this procedure of incremental testing and evaluation1. However, we found that the resources that were necessary for the evaluation of our particular system components did not ..."
+        },
+        {
+          "rank": 3,
+          "paper": "28.pdf",
+          "chunk_id": 54,
+          "distance": 0.9307829737663269,
+          "chunk_text": "ce of our multiple evaluation measures to performance, we use the PARADISE evaluation framework to derive a performance function from our data. The PAR- ADISE model posits that performance can be correlated with a meaningful external criterion of usability such as User Satisfaction. PARADISE then uses stepwise multiple linear regression to model User Satisfaction from measures representing the performance dimensions of task success, dialogue quality, and dialogue ef\ufb01ciency: User Satisfaction  n  i1 wi  N(me",
+          "chunk_preview": "ce of our multiple evaluation measures to performance, we use the PARADISE evaluation framework to derive a performance function from our data. The PAR- ADISE model posits that performance can be corr..."
+        }
+      ]
+    }
+  ],
+  "statistics": {
+    "paper_retrieval_frequency": {
+      "20.pdf": 15,
+      "13.pdf": 4,
+      "45.pdf": 4,
+      "43.pdf": 4,
+      "1.pdf": 3,
+      "36.pdf": 3,
+      "42.pdf": 2,
+      "34.pdf": 2,
+      "19.pdf": 2,
+      "23.pdf": 2
+    },
+    "distance_statistics": {
+      "min": 0.4639764428138733,
+      "max": 1.3708851337432861,
+      "mean": 0.9469390789667765,
+      "median": 0.9118293523788452
+    },
+    "total_retrievals": 60,
+    "unique_papers_retrieved": 24
+  }
+}

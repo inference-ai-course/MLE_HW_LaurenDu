@@ -1,0 +1,1739 @@
+{
+  "vector_search": {
+    "method": "vector_search",
+    "queries": [
+      {
+        "query": "neural networks machine learning",
+        "description": "Machine learning and neural networks",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.5,
+            "recall": 0.3333333333333333,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 1,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.5,
+            "recall": 0.3333333333333333,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 1,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "natural language processing NLP",
+        "description": "Natural language processing",
+        "relevant_count": 4,
+        "results_by_k": {
+          "3": {
+            "precision": 0.5,
+            "recall": 0.25,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 1,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.5,
+            "recall": 0.25,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 1,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "parsing grammar syntactic",
+        "description": "Syntactic parsing and grammar",
+        "relevant_count": 4,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "speech recognition spoken language",
+        "description": "Speech processing",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "machine translation",
+        "description": "Machine translation",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "text segmentation discourse",
+        "description": "Text segmentation",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 1.0,
+            "recall": 0.6666666666666666,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 2,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 1.0,
+            "recall": 0.6666666666666666,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 2,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "word sense disambiguation",
+        "description": "Word sense disambiguation",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "information retrieval",
+        "description": "Information retrieval",
+        "relevant_count": 2,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "dialogue systems conversation",
+        "description": "Dialog systems",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "part of speech tagging POS",
+        "description": "POS tagging",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      }
+    ],
+    "metrics": {
+      "precision@3": 0.2,
+      "recall@3": 0.125,
+      "hit_rate@3": 0.3,
+      "precision@5": 0.2,
+      "recall@5": 0.125,
+      "hit_rate@5": 0.3
+    }
+  },
+  "keyword_fts": {
+    "method": "keyword_fts",
+    "queries": [
+      {
+        "query": "neural networks machine learning",
+        "description": "Machine learning and neural networks",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/11.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/11.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "natural language processing NLP",
+        "description": "Natural language processing",
+        "relevant_count": 4,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/47.pdf",
+              "papers/44.pdf",
+              "papers/35.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/47.pdf",
+              "papers/20.pdf",
+              "papers/44.pdf",
+              "papers/35.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "parsing grammar syntactic",
+        "description": "Syntactic parsing and grammar",
+        "relevant_count": 4,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/20.pdf",
+              "papers/3.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/20.pdf",
+              "papers/3.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "speech recognition spoken language",
+        "description": "Speech processing",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/2.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/2.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "machine translation",
+        "description": "Machine translation",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/40.pdf",
+              "papers/23.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/40.pdf",
+              "papers/15.pdf",
+              "papers/23.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "text segmentation discourse",
+        "description": "Text segmentation",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/13.pdf",
+              "papers/1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/23.pdf",
+              "papers/13.pdf",
+              "papers/1.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "word sense disambiguation",
+        "description": "Word sense disambiguation",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/20.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/40.pdf",
+              "papers/20.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "information retrieval",
+        "description": "Information retrieval",
+        "relevant_count": 2,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/43.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/43.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "dialogue systems conversation",
+        "description": "Dialog systems",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": []
+          },
+          "5": {
+            "precision": 0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": []
+          }
+        }
+      },
+      {
+        "query": "part of speech tagging POS",
+        "description": "POS tagging",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/1.pdf",
+              "papers/20.pdf",
+              "papers/26.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/34.pdf",
+              "papers/1.pdf",
+              "papers/20.pdf",
+              "papers/26.pdf",
+              "papers/11.pdf"
+            ]
+          }
+        }
+      }
+    ],
+    "metrics": {
+      "precision@3": 0.0,
+      "recall@3": 0.0,
+      "hit_rate@3": 0.0,
+      "precision@5": 0.0,
+      "recall@5": 0.0,
+      "hit_rate@5": 0.0
+    }
+  },
+  "keyword_bm25": {
+    "method": "keyword_bm25",
+    "queries": [
+      {
+        "query": "neural networks machine learning",
+        "description": "Machine learning and neural networks",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "11.pdf",
+              "20.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "11.pdf",
+              "42.pdf",
+              "20.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "natural language processing NLP",
+        "description": "Natural language processing",
+        "relevant_count": 4,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "44.pdf",
+              "35.pdf",
+              "47.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "44.pdf",
+              "20.pdf",
+              "35.pdf",
+              "47.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "parsing grammar syntactic",
+        "description": "Syntactic parsing and grammar",
+        "relevant_count": 4,
+        "results_by_k": {
+          "3": {
+            "precision": 0.5,
+            "recall": 0.25,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 1,
+            "retrieved_papers": [
+              "3.pdf",
+              "44.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.25,
+            "recall": 0.25,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 1,
+            "retrieved_papers": [
+              "3.pdf",
+              "44.pdf",
+              "20.pdf",
+              "39.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "speech recognition spoken language",
+        "description": "Speech processing",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "2.pdf",
+              "39.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.3333333333333333,
+            "recall": 0.3333333333333333,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 1,
+            "retrieved_papers": [
+              "2.pdf",
+              "35.pdf",
+              "39.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "machine translation",
+        "description": "Machine translation",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.5,
+            "recall": 0.3333333333333333,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 1,
+            "retrieved_papers": [
+              "23.pdf",
+              "40.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.3333333333333333,
+            "recall": 0.3333333333333333,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 1,
+            "retrieved_papers": [
+              "15.pdf",
+              "23.pdf",
+              "40.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "text segmentation discourse",
+        "description": "Text segmentation",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 1.0,
+            "recall": 0.6666666666666666,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 2,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 1.0,
+            "recall": 0.6666666666666666,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 2,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "word sense disambiguation",
+        "description": "Word sense disambiguation",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 1.0,
+            "recall": 0.3333333333333333,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 1,
+            "retrieved_papers": [
+              "20.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.5,
+            "recall": 0.3333333333333333,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 1,
+            "retrieved_papers": [
+              "20.pdf",
+              "40.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "information retrieval",
+        "description": "Information retrieval",
+        "relevant_count": 2,
+        "results_by_k": {
+          "3": {
+            "precision": 1.0,
+            "recall": 0.5,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 1,
+            "retrieved_papers": [
+              "43.pdf"
+            ]
+          },
+          "5": {
+            "precision": 1.0,
+            "recall": 0.5,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 1,
+            "retrieved_papers": [
+              "43.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "dialogue systems conversation",
+        "description": "Dialog systems",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 1.0,
+            "recall": 0.6666666666666666,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 2,
+            "retrieved_papers": [
+              "2.pdf",
+              "28.pdf"
+            ]
+          },
+          "5": {
+            "precision": 1.0,
+            "recall": 0.6666666666666666,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 2,
+            "retrieved_papers": [
+              "2.pdf",
+              "28.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "part of speech tagging POS",
+        "description": "POS tagging",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "3.pdf",
+              "26.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.2,
+            "recall": 0.3333333333333333,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 1,
+            "retrieved_papers": [
+              "11.pdf",
+              "3.pdf",
+              "26.pdf",
+              "20.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      }
+    ],
+    "metrics": {
+      "precision@3": 0.5,
+      "recall@3": 0.27499999999999997,
+      "hit_rate@3": 0.6,
+      "precision@5": 0.4616666666666666,
+      "recall@5": 0.3416666666666666,
+      "hit_rate@5": 0.8
+    }
+  },
+  "hybrid_0.3": {
+    "method": "hybrid_0.3",
+    "queries": [
+      {
+        "query": "neural networks machine learning",
+        "description": "Machine learning and neural networks",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.5,
+            "recall": 0.3333333333333333,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 1,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.5,
+            "recall": 0.3333333333333333,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 1,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "natural language processing NLP",
+        "description": "Natural language processing",
+        "relevant_count": 4,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/47.pdf",
+              "papers/44.pdf",
+              "papers/35.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/47.pdf",
+              "papers/20.pdf",
+              "papers/44.pdf",
+              "papers/35.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "parsing grammar syntactic",
+        "description": "Syntactic parsing and grammar",
+        "relevant_count": 4,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "1.pdf",
+              "papers/3.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "1.pdf",
+              "13.pdf",
+              "papers/3.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "speech recognition spoken language",
+        "description": "Speech processing",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "machine translation",
+        "description": "Machine translation",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/40.pdf",
+              "papers/23.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/40.pdf",
+              "papers/15.pdf",
+              "papers/23.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "text segmentation discourse",
+        "description": "Text segmentation",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.3333333333333333,
+            "recall": 0.3333333333333333,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 1,
+            "retrieved_papers": [
+              "papers/13.pdf",
+              "papers/1.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.3333333333333333,
+            "recall": 0.3333333333333333,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 1,
+            "retrieved_papers": [
+              "papers/13.pdf",
+              "papers/1.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "word sense disambiguation",
+        "description": "Word sense disambiguation",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/20.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/40.pdf",
+              "papers/20.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "information retrieval",
+        "description": "Information retrieval",
+        "relevant_count": 2,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/43.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/43.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "dialogue systems conversation",
+        "description": "Dialog systems",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "part of speech tagging POS",
+        "description": "POS tagging",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/1.pdf",
+              "papers/20.pdf",
+              "papers/26.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/34.pdf",
+              "papers/1.pdf",
+              "papers/20.pdf",
+              "papers/26.pdf",
+              "papers/11.pdf"
+            ]
+          }
+        }
+      }
+    ],
+    "metrics": {
+      "precision@3": 0.08333333333333333,
+      "recall@3": 0.06666666666666667,
+      "hit_rate@3": 0.2,
+      "precision@5": 0.08333333333333333,
+      "recall@5": 0.06666666666666667,
+      "hit_rate@5": 0.2
+    }
+  },
+  "hybrid_0.5": {
+    "method": "hybrid_0.5",
+    "queries": [
+      {
+        "query": "neural networks machine learning",
+        "description": "Machine learning and neural networks",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.5,
+            "recall": 0.3333333333333333,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 1,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.5,
+            "recall": 0.3333333333333333,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 1,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "natural language processing NLP",
+        "description": "Natural language processing",
+        "relevant_count": 4,
+        "results_by_k": {
+          "3": {
+            "precision": 0.3333333333333333,
+            "recall": 0.25,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 1,
+            "retrieved_papers": [
+              "papers/35.pdf",
+              "papers/44.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.25,
+            "recall": 0.25,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 1,
+            "retrieved_papers": [
+              "papers/47.pdf",
+              "papers/35.pdf",
+              "papers/44.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "parsing grammar syntactic",
+        "description": "Syntactic parsing and grammar",
+        "relevant_count": 4,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/3.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "13.pdf",
+              "papers/3.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "speech recognition spoken language",
+        "description": "Speech processing",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "machine translation",
+        "description": "Machine translation",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/40.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/40.pdf",
+              "papers/15.pdf",
+              "papers/23.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "text segmentation discourse",
+        "description": "Text segmentation",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.5,
+            "recall": 0.3333333333333333,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 1,
+            "retrieved_papers": [
+              "papers/13.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.3333333333333333,
+            "recall": 0.3333333333333333,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 1,
+            "retrieved_papers": [
+              "papers/13.pdf",
+              "papers/1.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "word sense disambiguation",
+        "description": "Word sense disambiguation",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/20.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/40.pdf",
+              "papers/20.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "information retrieval",
+        "description": "Information retrieval",
+        "relevant_count": 2,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/43.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/43.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "dialogue systems conversation",
+        "description": "Dialog systems",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "part of speech tagging POS",
+        "description": "POS tagging",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/1.pdf",
+              "papers/26.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/1.pdf",
+              "papers/20.pdf",
+              "papers/26.pdf",
+              "papers/11.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      }
+    ],
+    "metrics": {
+      "precision@3": 0.13333333333333333,
+      "recall@3": 0.09166666666666665,
+      "hit_rate@3": 0.3,
+      "precision@5": 0.10833333333333332,
+      "recall@5": 0.09166666666666665,
+      "hit_rate@5": 0.3
+    }
+  },
+  "hybrid_0.7": {
+    "method": "hybrid_0.7",
+    "queries": [
+      {
+        "query": "neural networks machine learning",
+        "description": "Machine learning and neural networks",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.5,
+            "recall": 0.3333333333333333,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 1,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.5,
+            "recall": 0.3333333333333333,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 1,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "natural language processing NLP",
+        "description": "Natural language processing",
+        "relevant_count": 4,
+        "results_by_k": {
+          "3": {
+            "precision": 0.3333333333333333,
+            "recall": 0.25,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 1,
+            "retrieved_papers": [
+              "papers/35.pdf",
+              "papers/44.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.25,
+            "recall": 0.25,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 1,
+            "retrieved_papers": [
+              "papers/47.pdf",
+              "papers/35.pdf",
+              "papers/44.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "parsing grammar syntactic",
+        "description": "Syntactic parsing and grammar",
+        "relevant_count": 4,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/3.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "13.pdf",
+              "papers/3.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "speech recognition spoken language",
+        "description": "Speech processing",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "machine translation",
+        "description": "Machine translation",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/40.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/40.pdf",
+              "papers/15.pdf",
+              "papers/23.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "text segmentation discourse",
+        "description": "Text segmentation",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.5,
+            "recall": 0.3333333333333333,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 1,
+            "retrieved_papers": [
+              "papers/13.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.3333333333333333,
+            "recall": 0.3333333333333333,
+            "hit_rate": 1.0,
+            "relevant_retrieved": 1,
+            "retrieved_papers": [
+              "papers/13.pdf",
+              "papers/1.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "word sense disambiguation",
+        "description": "Word sense disambiguation",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/20.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/40.pdf",
+              "papers/20.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "information retrieval",
+        "description": "Information retrieval",
+        "relevant_count": 2,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/43.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/43.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "dialogue systems conversation",
+        "description": "Dialog systems",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "13.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      },
+      {
+        "query": "part of speech tagging POS",
+        "description": "POS tagging",
+        "relevant_count": 3,
+        "results_by_k": {
+          "3": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/1.pdf",
+              "papers/26.pdf",
+              "1.pdf"
+            ]
+          },
+          "5": {
+            "precision": 0.0,
+            "recall": 0.0,
+            "hit_rate": 0.0,
+            "relevant_retrieved": 0,
+            "retrieved_papers": [
+              "papers/1.pdf",
+              "papers/20.pdf",
+              "papers/26.pdf",
+              "papers/11.pdf",
+              "1.pdf"
+            ]
+          }
+        }
+      }
+    ],
+    "metrics": {
+      "precision@3": 0.13333333333333333,
+      "recall@3": 0.09166666666666665,
+      "hit_rate@3": 0.3,
+      "precision@5": 0.10833333333333332,
+      "recall@5": 0.09166666666666665,
+      "hit_rate@5": 0.3
+    }
+  }
+}

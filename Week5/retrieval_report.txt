@@ -1,0 +1,438 @@
+ARXIV CS.CL RAG PIPELINE - RETRIEVAL REPORT
+============================================================
+
+METADATA
+--------------------
+Generated: 2025-08-17T00:07:31.112306
+Total Queries: 20
+Total Papers: 49
+Total Chunks: 5574
+Embedding Model: all-MiniLM-L6-v2
+Embedding Dimension: 384
+
+PERFORMANCE STATISTICS
+-------------------------
+Total Retrievals: 60
+Unique Papers Retrieved: 24
+Distance Statistics:
+  - Min: 0.4640
+  - Max: 1.3709
+  - Mean: 0.9469
+  - Median: 0.9118
+
+MOST FREQUENTLY RETRIEVED PAPERS
+-----------------------------------
+20.pdf: 15 retrievals
+13.pdf: 4 retrievals
+45.pdf: 4 retrievals
+43.pdf: 4 retrievals
+1.pdf: 3 retrievals
+36.pdf: 3 retrievals
+42.pdf: 2 retrievals
+34.pdf: 2 retrievals
+19.pdf: 2 retrievals
+23.pdf: 2 retrievals
+
+DETAILED QUERY RESULTS
+-------------------------
+
+Query 1: 'natural language processing'
+------------------------------------------
+Rank 1 (Distance: 0.7054)
+Paper: 20.pdf
+Chunk ID: 555
+Text: lgorithm. Information and Computation, 108:212261. [Magerman1994] Magerman, David M. 1994. Natural Language Parsing as Statistical Pattern Recognition. Ph.D. Thesis, Stanford Univ. References 119 [Mag...
+
+Rank 2 (Distance: 0.7338)
+Paper: 26.pdf
+Chunk ID: 53
+Text: modular parsing system. In K. Sparck-Jones and Y. Wilks (eds.) Automatic Natural Language Parsing, Ellis HorwoodWiley: ChichesterNYC. [10] Nirenburg, S. and Raskin., V. (1997) Ten choices for lexical ...
+
+Rank 3 (Distance: 0.7484)
+Paper: 13.pdf
+Chunk ID: 52
+Text: wledge Source using Internet- Accessible Newswire. Proceedings of the 5th Confer- ence on Applied Natural Language Processing. Wash- ington, D.C.
+
+
+============================================================
+
+Query 2: 'machine learning'
+-------------------------------
+Rank 1 (Distance: 1.0600)
+Paper: 20.pdf
+Chunk ID: 497
+Text: lem as that of statistical estimation and deﬁning probability models (probability distributions) for each subproblem, (3) adopting MDL as a learning strategy, (4) employing eﬃcient learning algorithms...
+
+Rank 2 (Distance: 1.0962)
+Paper: 20.pdf
+Chunk ID: 587
+Text: f the ACM, 18(5):264274. [Wright1990] Wright, J.H. 1990. Lr parsing of probabilistic grammars with input un- certainty for speech recognition. Computer Speech and Language, 4:297323. [Yamanishi1992a] ...
+
+Rank 3 (Distance: 1.1213)
+Paper: 20.pdf
+Chunk ID: 4
+Text: ing eﬃcient learning algorithms, and (5) viewing the disambiguation problem as that of statistical prediction. The need to divide the problem into subproblems is due to the complicatedness of this tas...
+
+
+============================================================
+
+Query 3: 'deep learning'
+----------------------------
+Rank 1 (Distance: 1.2088)
+Paper: 1.pdf
+Chunk ID: 62
+Text: e output, increasing the systems recall from 39 to 42. Since the system was not built with precision as a priority, so although precision of the system dropped 3, we believe the overall effects of add...
+
+Rank 2 (Distance: 1.2096)
+Paper: 20.pdf
+Chunk ID: 155
+Text: d absence of a piece of evidence, respectively, and wi(i  1,   , n) denotes a non-negative real-valued weight. In disambiguation, if the function exceeds a prede- termined threshold θ, we choose 1, ot...
+
+Rank 3 (Distance: 1.2216)
+Paper: 42.pdf
+Chunk ID: 55
+Text: chunking us- ing memory-based learning techniques. In BENELEARN-98: Proceedings of the Eigth Belgian-Dutch Conference on Machine Learning. ATO-DLO, Wageningen, report 352.
+
+
+============================================================
+
+Query 4: 'neural networks'
+------------------------------
+Rank 1 (Distance: 1.2131)
+Paper: 45.pdf
+Chunk ID: 31
+Text: th 1-5 lines corresponding roughly to a sentence, and 10-20 lines to a paragraph. Estimating a line as 10 words, we are there- fore working with signiﬁcantly smaller data sets. The accuracy ﬁgures are...
+
+Rank 2 (Distance: 1.2294)
+Paper: 34.pdf
+Chunk ID: 24
+Text: node 0 to the last node (node 14 in the example). The best path can be eﬃ- ciently found with the Viterbi algorithm (Viterbi, 1967), which runs in time linear to the length of the word sequence. Havin...
+
+Rank 3 (Distance: 1.2301)
+Paper: 20.pdf
+Chunk ID: 147
+Text: unctions based on lexical and syntactic knowledge. They have devised a method for training the weights of a linear combination. Specif- ically, they employ the minimization of a squared-error cost fun...
+
+
+============================================================
+
+Query 5: 'transformer models'
+---------------------------------
+Rank 1 (Distance: 1.2228)
+Paper: 20.pdf
+Chunk ID: 172
+Text: elected model and then the data through the model. The decoder then can restore the data perfectly. Model class We ﬁrst introduce a class of models, of which each consists of a discrete model (an expr...
+
+Rank 2 (Distance: 1.2861)
+Paper: 19.pdf
+Chunk ID: 24
+Text: tz, Eric Sven Ristad, Roni Rosenfeld, Andreas Stolcke, Dekai Wu. 1997. Structure and Performance of a Dependency Lan- guage Model. In Proceedings of Eurospeech97, Rhodes, Greece. To appear.
+
+Rank 3 (Distance: 1.3267)
+Paper: 19.pdf
+Chunk ID: 20
+Text: of parameters for each of the 4 models described . LM PP param LM PP param W 352 208487 w 419 103732 H 292 206540 h 410 102437 Table 1: Perplexity results 5 Acknowledgements The author thanks to all t...
+
+
+============================================================
+
+Query 6: 'attention mechanism'
+----------------------------------
+Rank 1 (Distance: 0.7845)
+Paper: 23.pdf
+Chunk ID: 197
+Text: algorithm, such as the certainty factor calculation and the critics, to assess the eﬀects they have on performance. 8.1 Evaluation of the Focus Model The algorithm presented here does not include a me...
+
+Rank 2 (Distance: 0.8964)
+Paper: 23.pdf
+Chunk ID: 198
+Text: y based model of attentional state (though not that discourse structure need not be recognized), while Rose et al. (1995) argue for a more complex model of attentional state than is represented in mos...
+
+Rank 3 (Distance: 0.9178)
+Paper: 31.pdf
+Chunk ID: 10
+Text: either given or new, and therefore, its corresponding prosody. It was developed and implemented by Thomas Landauer[5] and models working memory as a periodic three dimensional Cartesian space, the foc...
+
+
+============================================================
+
+Query 7: 'language models'
+------------------------------
+Rank 1 (Distance: 0.6383)
+Paper: 18.pdf
+Chunk ID: 54
+Text: ossibility of reestimat- ing the model parameters. We believe that the above experiments show the potential of our approach for improved language models. Our future plans include:  experiment with oth...
+
+Rank 2 (Distance: 0.6387)
+Paper: 49.pdf
+Chunk ID: 48
+Text: on the perplexity of the language models involved. Consequently, one of the main problems is to reduce the perplexity of the models in question. The common way to approach this problem is to specializ...
+
+Rank 3 (Distance: 0.6813)
+Paper: 4.pdf
+Chunk ID: 5
+Text: V0, and by the Priority Programme Language and Speech Technology, which is sponsored by NWO (Dutch Organization for Scientiﬁc Research). The second and third authors were partially supported by NSF gr...
+
+
+============================================================
+
+Query 8: 'text classification'
+----------------------------------
+Rank 1 (Distance: 0.8056)
+Paper: 45.pdf
+Chunk ID: 55
+Text: s: Making NLP Technology Work in Practice, ACLEACL, Madrid. William B. Cavnar and John M. Trenkle 1994. N-Gram Based Text Categorization. In Pro- ceedings of the Third Annual Symposium on Document Ana...
+
+Rank 2 (Distance: 0.9615)
+Paper: 20.pdf
+Chunk ID: 546
+Text: ournal of Natural Language Processing, 5(3):33 52. [Iwayama and Tokunaga1995] Iwayama, Makoto and Takenobu Tokunaga. 1995. Cluster-based text categorization: A comparison of category search strategy. ...
+
+Rank 3 (Distance: 0.9903)
+Paper: 20.pdf
+Chunk ID: 554
+Text: Yamanishi1997] Li, Hang and Kenji Yamanishi. 1997. Document classiﬁcation using a ﬁnite mixture model. Proceedings of the 35th Annual Meeting of Association for Computational Linguistics, pages 7188. ...
+
+
+============================================================
+
+Query 9: 'information retrieval'
+------------------------------------
+Rank 1 (Distance: 0.8060)
+Paper: 43.pdf
+Chunk ID: 68
+Text: onary-based cross- language information retrieval. In Proceedings of the 21th Annual International ACM SIGIR Con- ference on Research and Development in Informa- tion Retrieval, pages 5563. Gerard Sal...
+
+Rank 2 (Distance: 0.8084)
+Paper: 43.pdf
+Chunk ID: 63
+Text: n Cross-Linguistic Information Retrieval. David A. Hull and Gregory Grefenstette. 1996. Querying across languages: A dictionary-based approach to multilingual information retrieval. In Proceedings of ...
+
+Rank 3 (Distance: 0.8490)
+Paper: 43.pdf
+Chunk ID: 55
+Text: m, is comparable with our CLIR system performance. It is expected that using a more sophisticated search engine, our CLIR system will achieve a higher performance than that obtained by Kando and Aizaw...
+
+
+============================================================
+
+Query 10: 'semantic analysis'
+--------------------------------
+Rank 1 (Distance: 0.8082)
+Paper: 35.pdf
+Chunk ID: 96
+Text: y NWO (Dutch Organisation for Scientiﬁc Research). References Alshawi, Hiyan, editor. 1992. The Core Language Engine. ACL-MIT press, Cambridge Mass. van den Berg, M., R. Bod, and R. Scha. 1994. A Corp...
+
+Rank 2 (Distance: 0.8860)
+Paper: 35.pdf
+Chunk ID: 28
+Text: construct a rewrite system for the semantic STSG. This rewrite system applies the semantic rules associated with every node in a derivation in a bottom up fashion, and arrives at the complete logical ...
+
+Rank 3 (Distance: 0.8902)
+Paper: 20.pdf
+Chunk ID: 83
+Text: ision. The accuracy achieved by this method is 85.2, which is higher than that of state- of-the-art methods. 1.4. ORGANIZATION OF THE THESIS 7 1.4 Organization of the Thesis This thesis is organized a...
+
+
+============================================================
+
+Query 11: 'machine translation'
+----------------------------------
+Rank 1 (Distance: 0.5986)
+Paper: 40.pdf
+Chunk ID: 0
+Text: arXiv:cs9906034v1 [cs.CL] 30 Jun 1999 A Uniﬁed Example-Based and Lexicalist Approach to Machine Translation Davide Turcato Paul McFetridge Fred Popowich and Janine Toole Natural Language Laboratory, S...
+
+Rank 2 (Distance: 0.6084)
+Paper: 44.pdf
+Chunk ID: 0
+Text: arXiv:cs9907008v1 [cs.CL] 6 Jul 1999 Explanation-based Learning for Machine Translation Janine Toole Fred Popowich Devlan Nicholson Davide Turcato Paul McFetridge Natural Language Laboratory, School o...
+
+Rank 3 (Distance: 0.6448)
+Paper: 40.pdf
+Chunk ID: 1
+Text: , V5Z 4R3, Canada turk,mcfet,popowich,toolecs.sfu.ca Abstract We propose an approach to Machine Translation that combines the ideas and methodologies of the Example-Based and Lexicalist theoretical fr...
+
+
+============================================================
+
+Query 12: 'sentiment analysis'
+---------------------------------
+Rank 1 (Distance: 1.1445)
+Paper: 13.pdf
+Chunk ID: 4
+Text: s that arise in the development of such resources. All evaluation re- sources are publicly available, and we welcome collabora- tion on use and improvements. The two resources discussed in this paper ...
+
+Rank 2 (Distance: 1.1582)
+Paper: 13.pdf
+Chunk ID: 7
+Text: Lee was supported at Columbia University by a summer internship under the Computing Research Association (CRA) Distributed Mentor Project. 2. Description of Resources We detail these two evaluation co...
+
+Rank 3 (Distance: 1.2364)
+Paper: 34.pdf
+Chunk ID: 68
+Text: annotation scheme for free word order lan- guages. In Proceedings of the Fifth Confer- ence on Applied Natural Language Processing ANLP-97, Washington, DC. [Thielen and Schiller1995] Christine Thielen...
+
+
+============================================================
+
+Query 13: 'named entity recognition'
+---------------------------------------
+Rank 1 (Distance: 0.7645)
+Paper: 36.pdf
+Chunk ID: 15
+Text: amiliar from information ex- traction [Def, 1995]. Named entities include among others the names of people, places, and organizations, as well as dates, expressions of money, and (in an idiosyncratic ...
+
+Rank 2 (Distance: 0.8326)
+Paper: 41.pdf
+Chunk ID: 2
+Text: ToBI, Tilt, Treebank, coreference and named entity. We show how annotation graphs can represent hybrid multi-level structures which derive from a diverse set of ﬁle formats. We also show how the appro...
+
+Rank 3 (Distance: 0.8573)
+Paper: 36.pdf
+Chunk ID: 5
+Text: e support of the MITRE Sponsored Research Program. Helpful assistance has been given by Yuval Krymolowski, Lynette Hirschman and an anonymous reviewer. Copyright c1999 The MITRE Corporation. All right...
+
+
+============================================================
+
+Query 14: 'part of speech tagging'
+-------------------------------------
+Rank 1 (Distance: 0.4640)
+Paper: 1.pdf
+Chunk ID: 8
+Text: es of terms, we first tag the text with part of speech (POS) information. Two methods were investigated for assigning POS tags to the text: 1) running a specialized tagging program or 2) using a simpl...
+
+Rank 2 (Distance: 0.4952)
+Paper: 17.pdf
+Chunk ID: 63
+Text: umen und Neuronalen Netzen. In H. Feldweg and E.W. Hinrichs, editors, Wiederverwendbare Methoden und Ressourcen zur linguistischen Erschliessung des Deutschen, volume 73 of Lexicographica. Series Maio...
+
+Rank 3 (Distance: 0.5227)
+Paper: 8.pdf
+Chunk ID: 45
+Text: Natural Language Processing and Speech Technology. Results of the 3rd KONVENS Conference, Bielefeld. Berlin: Mouton de Gruyter. 369-378. Merialdo, B. (1994). Tagging English text with a probabilistic ...
+
+
+============================================================
+
+Query 15: 'dependency parsing'
+---------------------------------
+Rank 1 (Distance: 0.6422)
+Paper: 47.pdf
+Chunk ID: 53
+Text: on Computational Linguistics, COLING- 96, 711716. Copenhagen, Denmark. Lin, D. (1995) A dependency-based method for evaluating broad-coverage parsers. In Proceed- ings of the 14th International Joint ...
+
+Rank 2 (Distance: 0.6955)
+Paper: 47.pdf
+Chunk ID: 18
+Text: dards or evaluation measures are proposed, though. 2 Grammatical Relation Annotation In the previous section we argued that constituency- based evaluation for parser evaluation has serious shortcoming...
+
+Rank 3 (Distance: 0.7059)
+Paper: 36.pdf
+Chunk ID: 93
+Text: emulated by a constrained context-free gram- mar. In COLING-ACL98 Workshop: Processing of Dependency-based Grammars, Montreal, Canada, 1998. [Marcus et al., 1993] M. Marcus, B. Santorini, and M. Marci...
+
+
+============================================================
+
+Query 16: 'embedding vectors'
+--------------------------------
+Rank 1 (Distance: 1.3236)
+Paper: 27.pdf
+Chunk ID: 167
+Text: nchors with spatial andor image-plane information. Anthropologists, conversation analysts, and sign-language researchers are already producing annotations that are (at least conceptually) anchored not...
+
+Rank 2 (Distance: 1.3618)
+Paper: 20.pdf
+Chunk ID: 581
+Text: ages 13081313. [Tsujii1987] Tsujii, Junichi. 1987. Knowledge Representation and Use  From AI View Point (in Japanese). Shoukoudou,Tokyo. [Ueda and Nakano1998] Ueda, Naonori and Ryohei Nakano. 1998. De...
+
+Rank 3 (Distance: 1.3709)
+Paper: 42.pdf
+Chunk ID: 6
+Text: sentation formats for the baseNP recognition task. We are particularly interested in ﬁnding out whether with one of the representation formats the best reported results for this task can be improved. ...
+
+
+============================================================
+
+Query 17: 'vector space models'
+----------------------------------
+Rank 1 (Distance: 1.1422)
+Paper: 1.pdf
+Chunk ID: 76
+Text: nual Meeting of the Association for Computational Linguistics (student session), Las Cruces, New Mexico. Salton G. (1989) Automatic text processing: the transformation, analysis, and retrieval of info...
+
+Rank 2 (Distance: 1.1738)
+Paper: 43.pdf
+Chunk ID: 14
+Text: heridan and Ballerini, 1996) and language-independent vector space models (Carbonell et al., 1997; Dumais et al., 1996). We prefer the ﬁrst approach, the query translation, to other approaches because...
+
+Rank 3 (Distance: 1.1823)
+Paper: 20.pdf
+Chunk ID: 179
+Text: gth When a discrete model m is ﬁxed, a parameter space will be uniquely determined. The model class turns out to be Mm  Pθ(X) : θ  Θ, where θ denotes a parameter vector, and Θ the parameter space. Sup...
+
+
+============================================================
+
+Query 18: 'probabilistic models'
+-----------------------------------
+Rank 1 (Distance: 0.9014)
+Paper: 20.pdf
+Chunk ID: 321
+Text: ted as a conditional probability estimated (smoothed) from a class-based model on the basis of the MDL principle. The advantage of this method over the word-based method described in Chapter 2 lies in...
+
+Rank 2 (Distance: 0.9118)
+Paper: 4.pdf
+Chunk ID: 57
+Text: e stochastic TAG have been pre- viously estimated. In practice, smoothing to avoid sparse data problems plays an important role. Smoothing can be handled for preﬁx prob- ability computation in the fol...
+
+Rank 3 (Distance: 0.9408)
+Paper: 20.pdf
+Chunk ID: 216
+Text: able and the optimal model can be eﬃciently found. Rissanen (1997), for example, has devised such an algorithm for learning a decision tree. Another approach is to calculate approximately the descript...
+
+
+============================================================
+
+Query 19: 'statistical methods'
+----------------------------------
+Rank 1 (Distance: 1.1062)
+Paper: 45.pdf
+Chunk ID: 52
+Text: ngs which can help us trust that the technique is accurate. The ﬁrst is a be- lief that the statistical technique is an adequate model of the underlying process which gener- ates the data, using theor...
+
+Rank 2 (Distance: 1.1732)
+Paper: 20.pdf
+Chunk ID: 121
+Text: , with, spoon)) by mainly using lexical knowledge. Such methods can be classiﬁed into the following three types: the double approach, the triple approach, and the quadruple approach. The ﬁrst two appr...
+
+Rank 3 (Distance: 1.1966)
+Paper: 45.pdf
+Chunk ID: 54
+Text: which are themselves based in the statistical model. In doing so, we hope to avoid presenting a result for which we lack adequate evidence. Acknowledgement Thanks to Robert Keiller of Canon Research C...
+
+
+============================================================
+
+Query 20: 'evaluation metrics'
+---------------------------------
+Rank 1 (Distance: 0.8528)
+Paper: 28.pdf
+Chunk ID: 40
+Text: easures best predicts overall performance in TOOT. Following PARADISE, we organize our evaluation measures along the following four performance dimensions:  task success: Task Success  dialogue qualit...
+
+Rank 2 (Distance: 0.9018)
+Paper: 13.pdf
+Chunk ID: 3
+Text: ersity, we have followed this procedure of incremental testing and evaluation1. However, we found that the resources that were necessary for the evaluation of our particular system components did not ...
+
+Rank 3 (Distance: 0.9308)
+Paper: 28.pdf
+Chunk ID: 54
+Text: ce of our multiple evaluation measures to performance, we use the PARADISE evaluation framework to derive a performance function from our data. The PAR- ADISE model posits that performance can be corr...
+
+
+============================================================
+

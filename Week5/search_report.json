@@ -1,0 +1,434 @@
+[
+  {
+    "category": "ML/AI",
+    "query": "machine learning",
+    "rank": 1,
+    "paper": "20.pdf",
+    "chunk_id": 497,
+    "distance": 1.059960126876831,
+    "chunk_preview": "lem as that of statistical estimation and de\ufb01ning probability models (probability distributions) for each subproblem, (3) adopting MDL as a learning strategy, (4) employing e\ufb03cient learning algorithms..."
+  },
+  {
+    "category": "ML/AI",
+    "query": "machine learning",
+    "rank": 2,
+    "paper": "20.pdf",
+    "chunk_id": 587,
+    "distance": 1.0962402820587158,
+    "chunk_preview": "f the ACM, 18(5):264274. [Wright1990] Wright, J.H. 1990. Lr parsing of probabilistic grammars with input un- certainty for speech recognition. Computer Speech and Language, 4:297323. [Yamanishi1992a] ..."
+  },
+  {
+    "category": "ML/AI",
+    "query": "machine learning",
+    "rank": 3,
+    "paper": "20.pdf",
+    "chunk_id": 4,
+    "distance": 1.121330976486206,
+    "chunk_preview": "ing e\ufb03cient learning algorithms, and (5) viewing the disambiguation problem as that of statistical prediction. The need to divide the problem into subproblems is due to the complicatedness of this tas..."
+  },
+  {
+    "category": "ML/AI",
+    "query": "artificial intelligence",
+    "rank": 1,
+    "paper": "10.pdf",
+    "chunk_id": 102,
+    "distance": 0.9868541359901428,
+    "chunk_preview": "m- putermodelle zum Finnischen und Tigrinya. Ph.D. thesis, Philosophische Fakultat der Heinrich- Heine-Universitat Dusseldorf. Walther, M.  B. Kroger (1994). Phonologie- Phonetik-Kopplung in einem con..."
+  },
+  {
+    "category": "ML/AI",
+    "query": "artificial intelligence",
+    "rank": 2,
+    "paper": "49.pdf",
+    "chunk_id": 77,
+    "distance": 1.0684398412704468,
+    "chunk_preview": "ebel, B. (Ed). Advances in Arti\ufb01cial Intelligence. Proceedings of the 21st German Annual Conference on Arti\ufb01cial Intelligence, KI-97, Freiburg. Berlin: Springer (LNCS) 1997 11..."
+  },
+  {
+    "category": "ML/AI",
+    "query": "artificial intelligence",
+    "rank": 3,
+    "paper": "30.pdf",
+    "chunk_id": 7,
+    "distance": 1.083353877067566,
+    "chunk_preview": "s and whether he or she believes the hearer knows. Speech act based AI approaches normally make refer- ence to mental attitudes and often provide links between the surface form of the utterance and th..."
+  },
+  {
+    "category": "ML/AI",
+    "query": "neural networks",
+    "rank": 1,
+    "paper": "45.pdf",
+    "chunk_id": 31,
+    "distance": 1.2131273746490479,
+    "chunk_preview": "th 1-5 lines corresponding roughly to a sentence, and 10-20 lines to a paragraph. Estimating a line as 10 words, we are there- fore working with signi\ufb01cantly smaller data sets. The accuracy \ufb01gures are..."
+  },
+  {
+    "category": "ML/AI",
+    "query": "neural networks",
+    "rank": 2,
+    "paper": "34.pdf",
+    "chunk_id": 24,
+    "distance": 1.2294217348098755,
+    "chunk_preview": "node 0 to the last node (node 14 in the example). The best path can be e\ufb03- ciently found with the Viterbi algorithm (Viterbi, 1967), which runs in time linear to the length of the word sequence. Havin..."
+  },
+  {
+    "category": "ML/AI",
+    "query": "neural networks",
+    "rank": 3,
+    "paper": "20.pdf",
+    "chunk_id": 147,
+    "distance": 1.2301392555236816,
+    "chunk_preview": "unctions based on lexical and syntactic knowledge. They have devised a method for training the weights of a linear combination. Specif- ically, they employ the minimization of a squared-error cost fun..."
+  },
+  {
+    "category": "ML/AI",
+    "query": "deep learning",
+    "rank": 1,
+    "paper": "1.pdf",
+    "chunk_id": 62,
+    "distance": 1.2088100910186768,
+    "chunk_preview": "e output, increasing the systems recall from 39 to 42. Since the system was not built with precision as a priority, so although precision of the system dropped 3, we believe the overall effects of add..."
+  },
+  {
+    "category": "ML/AI",
+    "query": "deep learning",
+    "rank": 2,
+    "paper": "20.pdf",
+    "chunk_id": 155,
+    "distance": 1.2096259593963623,
+    "chunk_preview": "d absence of a piece of evidence, respectively, and wi(i  1,   , n) denotes a non-negative real-valued weight. In disambiguation, if the function exceeds a prede- termined threshold \u03b8, we choose 1, ot..."
+  },
+  {
+    "category": "ML/AI",
+    "query": "deep learning",
+    "rank": 3,
+    "paper": "42.pdf",
+    "chunk_id": 55,
+    "distance": 1.2216100692749023,
+    "chunk_preview": "chunking us- ing memory-based learning techniques. In BENELEARN-98: Proceedings of the Eigth Belgian-Dutch Conference on Machine Learning. ATO-DLO, Wageningen, report 352...."
+  },
+  {
+    "category": "NLP",
+    "query": "natural language processing",
+    "rank": 1,
+    "paper": "20.pdf",
+    "chunk_id": 555,
+    "distance": 0.7053927779197693,
+    "chunk_preview": "lgorithm. Information and Computation, 108:212261. [Magerman1994] Magerman, David M. 1994. Natural Language Parsing as Statistical Pattern Recognition. Ph.D. Thesis, Stanford Univ. References 119 [Mag..."
+  },
+  {
+    "category": "NLP",
+    "query": "natural language processing",
+    "rank": 2,
+    "paper": "26.pdf",
+    "chunk_id": 53,
+    "distance": 0.7337838411331177,
+    "chunk_preview": "modular parsing system. In K. Sparck-Jones and Y. Wilks (eds.) Automatic Natural Language Parsing, Ellis HorwoodWiley: ChichesterNYC. [10] Nirenburg, S. and Raskin., V. (1997) Ten choices for lexical ..."
+  },
+  {
+    "category": "NLP",
+    "query": "natural language processing",
+    "rank": 3,
+    "paper": "13.pdf",
+    "chunk_id": 52,
+    "distance": 0.7483746409416199,
+    "chunk_preview": "wledge Source using Internet- Accessible Newswire. Proceedings of the 5th Confer- ence on Applied Natural Language Processing. Wash- ington, D.C...."
+  },
+  {
+    "category": "NLP",
+    "query": "language models",
+    "rank": 1,
+    "paper": "18.pdf",
+    "chunk_id": 54,
+    "distance": 0.6383261680603027,
+    "chunk_preview": "ossibility of reestimat- ing the model parameters. We believe that the above experiments show the potential of our approach for improved language models. Our future plans include:  experiment with oth..."
+  },
+  {
+    "category": "NLP",
+    "query": "language models",
+    "rank": 2,
+    "paper": "49.pdf",
+    "chunk_id": 48,
+    "distance": 0.6386904716491699,
+    "chunk_preview": "on the perplexity of the language models involved. Consequently, one of the main problems is to reduce the perplexity of the models in question. The common way to approach this problem is to specializ..."
+  },
+  {
+    "category": "NLP",
+    "query": "language models",
+    "rank": 3,
+    "paper": "4.pdf",
+    "chunk_id": 5,
+    "distance": 0.6812974214553833,
+    "chunk_preview": "V0, and by the Priority Programme Language and Speech Technology, which is sponsored by NWO (Dutch Organization for Scienti\ufb01c Research). The second and third authors were partially supported by NSF gr..."
+  },
+  {
+    "category": "NLP",
+    "query": "text analysis",
+    "rank": 1,
+    "paper": "13.pdf",
+    "chunk_id": 4,
+    "distance": 0.5639878511428833,
+    "chunk_preview": "s that arise in the development of such resources. All evaluation re- sources are publicly available, and we welcome collabora- tion on use and improvements. The two resources discussed in this paper ..."
+  },
+  {
+    "category": "NLP",
+    "query": "text analysis",
+    "rank": 2,
+    "paper": "13.pdf",
+    "chunk_id": 7,
+    "distance": 0.6930248141288757,
+    "chunk_preview": "Lee was supported at Columbia University by a summer internship under the Computing Research Association (CRA) Distributed Mentor Project. 2. Description of Resources We detail these two evaluation co..."
+  },
+  {
+    "category": "NLP",
+    "query": "text analysis",
+    "rank": 3,
+    "paper": "13.pdf",
+    "chunk_id": 10,
+    "distance": 0.7267420291900635,
+    "chunk_preview": "segmentation of the input text, linear in that we seek a sequential rela- tion between the chunks, as opposed to hierarchical seg- mentation (Marcu 1997). Multiple paragraph refers to the size of the ..."
+  },
+  {
+    "category": "NLP",
+    "query": "semantic analysis",
+    "rank": 1,
+    "paper": "35.pdf",
+    "chunk_id": 96,
+    "distance": 0.8081693053245544,
+    "chunk_preview": "y NWO (Dutch Organisation for Scienti\ufb01c Research). References Alshawi, Hiyan, editor. 1992. The Core Language Engine. ACL-MIT press, Cambridge Mass. van den Berg, M., R. Bod, and R. Scha. 1994. A Corp..."
+  },
+  {
+    "category": "NLP",
+    "query": "semantic analysis",
+    "rank": 2,
+    "paper": "35.pdf",
+    "chunk_id": 28,
+    "distance": 0.8859751224517822,
+    "chunk_preview": "construct a rewrite system for the semantic STSG. This rewrite system applies the semantic rules associated with every node in a derivation in a bottom up fashion, and arrives at the complete logical ..."
+  },
+  {
+    "category": "NLP",
+    "query": "semantic analysis",
+    "rank": 3,
+    "paper": "20.pdf",
+    "chunk_id": 83,
+    "distance": 0.890204906463623,
+    "chunk_preview": "ision. The accuracy achieved by this method is 85.2, which is higher than that of state- of-the-art methods. 1.4. ORGANIZATION OF THE THESIS 7 1.4 Organization of the Thesis This thesis is organized a..."
+  },
+  {
+    "category": "Technical",
+    "query": "transformer models",
+    "rank": 1,
+    "paper": "20.pdf",
+    "chunk_id": 172,
+    "distance": 1.2227797508239746,
+    "chunk_preview": "elected model and then the data through the model. The decoder then can restore the data perfectly. Model class We \ufb01rst introduce a class of models, of which each consists of a discrete model (an expr..."
+  },
+  {
+    "category": "Technical",
+    "query": "transformer models",
+    "rank": 2,
+    "paper": "19.pdf",
+    "chunk_id": 24,
+    "distance": 1.2860559225082397,
+    "chunk_preview": "tz, Eric Sven Ristad, Roni Rosenfeld, Andreas Stolcke, Dekai Wu. 1997. Structure and Performance of a Dependency Lan- guage Model. In Proceedings of Eurospeech97, Rhodes, Greece. To appear...."
+  },
+  {
+    "category": "Technical",
+    "query": "transformer models",
+    "rank": 3,
+    "paper": "19.pdf",
+    "chunk_id": 20,
+    "distance": 1.3267229795455933,
+    "chunk_preview": "of parameters for each of the 4 models described . LM PP param LM PP param W 352 208487 w 419 103732 H 292 206540 h 410 102437 Table 1: Perplexity results 5 Acknowledgements The author thanks to all t..."
+  },
+  {
+    "category": "Technical",
+    "query": "attention mechanism",
+    "rank": 1,
+    "paper": "23.pdf",
+    "chunk_id": 197,
+    "distance": 0.7845272421836853,
+    "chunk_preview": "algorithm, such as the certainty factor calculation and the critics, to assess the e\ufb00ects they have on performance. 8.1 Evaluation of the Focus Model The algorithm presented here does not include a me..."
+  },
+  {
+    "category": "Technical",
+    "query": "attention mechanism",
+    "rank": 2,
+    "paper": "23.pdf",
+    "chunk_id": 198,
+    "distance": 0.896379828453064,
+    "chunk_preview": "y based model of attentional state (though not that discourse structure need not be recognized), while Rose et al. (1995) argue for a more complex model of attentional state than is represented in mos..."
+  },
+  {
+    "category": "Technical",
+    "query": "attention mechanism",
+    "rank": 3,
+    "paper": "31.pdf",
+    "chunk_id": 10,
+    "distance": 0.9177740216255188,
+    "chunk_preview": "either given or new, and therefore, its corresponding prosody. It was developed and implemented by Thomas Landauer[5] and models working memory as a periodic three dimensional Cartesian space, the foc..."
+  },
+  {
+    "category": "Technical",
+    "query": "embedding",
+    "rank": 1,
+    "paper": "20.pdf",
+    "chunk_id": 581,
+    "distance": 1.262108325958252,
+    "chunk_preview": "ages 13081313. [Tsujii1987] Tsujii, Junichi. 1987. Knowledge Representation and Use  From AI View Point (in Japanese). Shoukoudou,Tokyo. [Ueda and Nakano1998] Ueda, Naonori and Ryohei Nakano. 1998. De..."
+  },
+  {
+    "category": "Technical",
+    "query": "embedding",
+    "rank": 2,
+    "paper": "27.pdf",
+    "chunk_id": 218,
+    "distance": 1.3105392456054688,
+    "chunk_preview": "transparent encodings of the annotation structure. The \ufb02attest data structure we can imagine for an annotation graph is a set of 3-tuples, one per arc, consisting of a node identi\ufb01er, a label, and ano..."
+  },
+  {
+    "category": "Technical",
+    "query": "embedding",
+    "rank": 3,
+    "paper": "27.pdf",
+    "chunk_id": 167,
+    "distance": 1.320428729057312,
+    "chunk_preview": "nchors with spatial andor image-plane information. Anthropologists, conversation analysts, and sign-language researchers are already producing annotations that are (at least conceptually) anchored not..."
+  },
+  {
+    "category": "Technical",
+    "query": "vector space",
+    "rank": 1,
+    "paper": "39.pdf",
+    "chunk_id": 143,
+    "distance": 1.4741544723510742,
+    "chunk_preview": "s uni\ufb01ed with restriction of the determiner. 26 a. lex(vertrekken,   v sem   v form var e1 form   s form form   p form pred leave args t expr index e1  , 3        subj np sem 3    ). b. lex(willen,   ..."
+  },
+  {
+    "category": "Technical",
+    "query": "vector space",
+    "rank": 2,
+    "paper": "3.pdf",
+    "chunk_id": 479,
+    "distance": 1.4795877933502197,
+    "chunk_preview": "VP will be headed by a verb that is either passive or a present participle. GPSG follows [Chomsky, 1970] in adopting the binary valued features [V] and [N] for de- composing the verb, noun, adjective ..."
+  },
+  {
+    "category": "Technical",
+    "query": "vector space",
+    "rank": 3,
+    "paper": "1.pdf",
+    "chunk_id": 76,
+    "distance": 1.480796456336975,
+    "chunk_preview": "nual Meeting of the Association for Computational Linguistics (student session), Las Cruces, New Mexico. Salton G. (1989) Automatic text processing: the transformation, analysis, and retrieval of info..."
+  },
+  {
+    "category": "Applications",
+    "query": "text classification",
+    "rank": 1,
+    "paper": "45.pdf",
+    "chunk_id": 55,
+    "distance": 0.805555522441864,
+    "chunk_preview": "s: Making NLP Technology Work in Practice, ACLEACL, Madrid. William B. Cavnar and John M. Trenkle 1994. N-Gram Based Text Categorization. In Pro- ceedings of the Third Annual Symposium on Document Ana..."
+  },
+  {
+    "category": "Applications",
+    "query": "text classification",
+    "rank": 2,
+    "paper": "20.pdf",
+    "chunk_id": 546,
+    "distance": 0.961479127407074,
+    "chunk_preview": "ournal of Natural Language Processing, 5(3):33 52. [Iwayama and Tokunaga1995] Iwayama, Makoto and Takenobu Tokunaga. 1995. Cluster-based text categorization: A comparison of category search strategy. ..."
+  },
+  {
+    "category": "Applications",
+    "query": "text classification",
+    "rank": 3,
+    "paper": "20.pdf",
+    "chunk_id": 554,
+    "distance": 0.9903286099433899,
+    "chunk_preview": "Yamanishi1997] Li, Hang and Kenji Yamanishi. 1997. Document classi\ufb01cation using a \ufb01nite mixture model. Proceedings of the 35th Annual Meeting of Association for Computational Linguistics, pages 7188. ..."
+  },
+  {
+    "category": "Applications",
+    "query": "information retrieval",
+    "rank": 1,
+    "paper": "43.pdf",
+    "chunk_id": 68,
+    "distance": 0.8060168027877808,
+    "chunk_preview": "onary-based cross- language information retrieval. In Proceedings of the 21th Annual International ACM SIGIR Con- ference on Research and Development in Informa- tion Retrieval, pages 5563. Gerard Sal..."
+  },
+  {
+    "category": "Applications",
+    "query": "information retrieval",
+    "rank": 2,
+    "paper": "43.pdf",
+    "chunk_id": 63,
+    "distance": 0.8084437251091003,
+    "chunk_preview": "n Cross-Linguistic Information Retrieval. David A. Hull and Gregory Grefenstette. 1996. Querying across languages: A dictionary-based approach to multilingual information retrieval. In Proceedings of ..."
+  },
+  {
+    "category": "Applications",
+    "query": "information retrieval",
+    "rank": 3,
+    "paper": "43.pdf",
+    "chunk_id": 55,
+    "distance": 0.8490288257598877,
+    "chunk_preview": "m, is comparable with our CLIR system performance. It is expected that using a more sophisticated search engine, our CLIR system will achieve a higher performance than that obtained by Kando and Aizaw..."
+  },
+  {
+    "category": "Applications",
+    "query": "sentiment analysis",
+    "rank": 1,
+    "paper": "13.pdf",
+    "chunk_id": 4,
+    "distance": 1.144479513168335,
+    "chunk_preview": "s that arise in the development of such resources. All evaluation re- sources are publicly available, and we welcome collabora- tion on use and improvements. The two resources discussed in this paper ..."
+  },
+  {
+    "category": "Applications",
+    "query": "sentiment analysis",
+    "rank": 2,
+    "paper": "13.pdf",
+    "chunk_id": 7,
+    "distance": 1.1582409143447876,
+    "chunk_preview": "Lee was supported at Columbia University by a summer internship under the Computing Research Association (CRA) Distributed Mentor Project. 2. Description of Resources We detail these two evaluation co..."
+  },
+  {
+    "category": "Applications",
+    "query": "sentiment analysis",
+    "rank": 3,
+    "paper": "34.pdf",
+    "chunk_id": 68,
+    "distance": 1.2363927364349365,
+    "chunk_preview": "annotation scheme for free word order lan- guages. In Proceedings of the Fifth Confer- ence on Applied Natural Language Processing ANLP-97, Washington, DC. [Thielen and Schiller1995] Christine Thielen..."
+  },
+  {
+    "category": "Applications",
+    "query": "machine translation",
+    "rank": 1,
+    "paper": "40.pdf",
+    "chunk_id": 0,
+    "distance": 0.5986264944076538,
+    "chunk_preview": "arXiv:cs9906034v1 [cs.CL] 30 Jun 1999 A Uni\ufb01ed Example-Based and Lexicalist Approach to Machine Translation Davide Turcato Paul McFetridge Fred Popowich and Janine Toole Natural Language Laboratory, S..."
+  },
+  {
+    "category": "Applications",
+    "query": "machine translation",
+    "rank": 2,
+    "paper": "44.pdf",
+    "chunk_id": 0,
+    "distance": 0.6083953380584717,
+    "chunk_preview": "arXiv:cs9907008v1 [cs.CL] 6 Jul 1999 Explanation-based Learning for Machine Translation Janine Toole Fred Popowich Devlan Nicholson Davide Turcato Paul McFetridge Natural Language Laboratory, School o..."
+  },
+  {
+    "category": "Applications",
+    "query": "machine translation",
+    "rank": 3,
+    "paper": "40.pdf",
+    "chunk_id": 1,
+    "distance": 0.6448163986206055,
+    "chunk_preview": ", V5Z 4R3, Canada turk,mcfet,popowich,toolecs.sfu.ca Abstract We propose an approach to Machine Translation that combines the ideas and methodologies of the Example-Based and Lexicalist theoretical fr..."
+  }
+]
