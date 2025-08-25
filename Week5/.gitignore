@@ -1,5 +1,0 @@
-# Ignore large data/index files
-*.json
-*.db
-*.npy
-*.idx
